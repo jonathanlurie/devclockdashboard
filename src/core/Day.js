@@ -12,6 +12,12 @@ class Day {
     this._alldevEventsPerId = {}
   }
 
+  
+  get date() {
+    return this._date
+  }
+
+
   addDevEvent(de) {
     if (de.id in this._alldevEventsPerId) {
       return
@@ -47,7 +53,7 @@ class Day {
   }
 
 
-  getPeakHour(type) {
+  getPeakHour() {
     let maxEvents = 0
     let hour = 0
 
