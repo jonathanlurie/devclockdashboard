@@ -2,7 +2,7 @@
 class Day {
   constructor(date) {
     this._date = date
-    this._devEventsPerHour = {}
+    this._devEventsPerHour = []
     // adding an empty entry for each hour
     for (let i = 0; i < 24; i += 1) {
       this._devEventsPerHour[i] = []
@@ -12,9 +12,13 @@ class Day {
     this._alldevEventsPerId = {}
   }
 
-  
+
   get date() {
     return this._date
+  }
+
+  get devEventsPerHour() {
+    return this._devEventsPerHour.slice()
   }
 
 
@@ -25,7 +29,7 @@ class Day {
 
     this._alldevEventsPerId[de.id] = de
     this._alldevEvents.push(de)
-    this._devEventsPerHour[de.hour].push(de)
+    this._devEventsPerHour[parseInt(de.hour)].push(de)
   }
 
 
