@@ -1,4 +1,6 @@
 import React from 'react'
+import Chip from '@material-ui/core/Chip';
+import TodayIcon from '@material-ui/icons/Today';
 import Store from '../../core/Store'
 import './style.css'
 
@@ -15,22 +17,17 @@ class DayView extends React.Component {
     const devEvt = day.devEventsPerHour
     const dayCollection = Store.get('dayCollection')
     const maxEv = dayCollection.getPeakHour().maxEvents
+    const dateString = (new Date(day.date)).toDateString()
 
     const columns = devEvt.map((deArr, i) => {
       const nbDevEvt = deArr.length
       const h = `${nbDevEvt / maxEv}%`
-
       const bgColor = nbDevEvt > 0 ? {} : {background: 'rgba(0, 0, 0, 0.1)'}
       
       return (
         <div 
-        key={i}
-          style={{
-            position: 'relative',
-            width: '100%',
-            height: '100%',
-            background: 'rgba(0, 0, 0, 0.03)',
-          }}
+          key={i}
+          className="bar-container"
         >
           <div 
             className="bar"
@@ -49,18 +46,14 @@ class DayView extends React.Component {
 
 
     const columnsHour = devEvt.map((deArr, i) => {
-      
+      const hourDisplay = i % 12
+      const ampm = i < 12 ? 'am' : 'pm'
       return (
         <div 
-        key={i}
-          style={{
-            position: 'relative',
-            width: '100%',
-            height: '100%',
-            textAlign: 'center',
-          }}
+          key={i}
+          className="hour-label"
         >
-          {`${i}:30`}
+          {`${hourDisplay}${ampm}`}
         </div>
       )
     })
@@ -69,7 +62,15 @@ class DayView extends React.Component {
 
     return (
       <div className="day-view">
-        <div>{day.date}</div>
+        <div
+          className="date-display"
+        >
+          <Chip
+            icon={<TodayIcon />}
+            label={dateString}
+            color="red"
+          />
+        </div>
         <div className="bar-chart">
           {columns}
         </div>
