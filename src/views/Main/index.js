@@ -7,6 +7,7 @@ import {
 } from 'antd'
 import { CaretRightFilled } from '@ant-design/icons';
 import DayCollectionView from '../DayCollectionView'
+import Store from '../../core/Store'
 import './style.css'
 
 const { Header, Footer, Content } = Layout
@@ -21,6 +22,18 @@ export default class Main extends React.Component {
   
 
   render() {
+    const dayCollection = Store.get('dayCollection')
+
+    let lastEvent = null
+    let packageName = null
+    let packageVersion = null
+    try {
+      lastEvent = dayCollection.getLastDay().getLastEvent()
+      packageName = lastEvent.packageName + ' '
+      packageVersion = 'v' + lastEvent.packageVersion
+    } catch(e) {}
+
+    
     
     return (
       <Layout>
@@ -34,14 +47,16 @@ export default class Main extends React.Component {
 
             <Col xs={12} sm={12} md={11} lg={9} xl={8}>
               <div className="header-devclock-title">
-              <CaretRightFilled/>Devclock
+                <CaretRightFilled/>Devclock
               </div>
               
             </Col>
 
 
             <Col xs={12} sm={12} md={11} lg={9} xl={8}>
-              project name
+              <div className="header-devclock-package-info">
+                {packageName}{packageVersion}
+              </div>
             </Col>
 
 
@@ -61,7 +76,7 @@ export default class Main extends React.Component {
         </Content>
         
         <Footer>
-          Footer
+          
         </Footer>
       </Layout>
     )

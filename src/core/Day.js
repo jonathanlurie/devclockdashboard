@@ -17,6 +17,7 @@ class Day {
     return this._date
   }
 
+
   get devEventsPerHour() {
     return this._devEventsPerHour.slice()
   }
@@ -36,6 +37,7 @@ class Day {
   getEvents(options = {}) {
     const hour = 'hour' in options ? options.hour : null
     const type = 'type' in options ? options.type : null
+    const order = 'order' in options ? options.order : -1
 
     let events = []
     if (hour && hour <=23 && hour >= 0) {
@@ -48,6 +50,8 @@ class Day {
       events = events.filter((de) => de.type.toLowercase() === type.toLowercase())
     }
 
+    events = events.sort((dea, deb) => dea.timestamp > deb.timestamp ? 1 * order : -1 * order)
+    
     return events
   }
 
@@ -73,6 +77,17 @@ class Day {
       hour
     }
   }
+
+
+  getLastEvent() {
+    let lastEvent = null
+    try {
+      lastEvent = this.getEvents({order: -1})[0]
+    } catch(e) {}
+    return lastEvent
+  }
+
+
   
 }
 

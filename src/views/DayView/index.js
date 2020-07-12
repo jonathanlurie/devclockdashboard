@@ -1,5 +1,6 @@
 import React from 'react'
-import { Card, Tooltip } from 'antd'
+import { Card, Tooltip, Row, Col, Space, Tag } from 'antd'
+import { ClockCircleOutlined, FileFilled } from '@ant-design/icons';
 import Store from '../../core/Store'
 import './style.css'
 
@@ -7,9 +8,36 @@ class DayView extends React.Component {
   constructor(props) {
     super(props)
 
-    this.state = {}
+    this.state = {
+      detailsDatetime: null
+    }
   }
 
+
+  toggleHourDetails = (day, hour) => {
+    if (this.state.detailsDatetime === null) {
+      return this.setState({
+        detailsDatetime: {
+          day: day,
+          hour: hour
+        }
+      })
+    }
+
+    if (day === this.state.detailsDatetime.day && hour === this.state.detailsDatetime.hour) {
+      return this.setState({
+        detailsDatetime: null
+      })
+    }
+
+    this.setState({
+      detailsDatetime: {
+        day: day,
+        hour: hour
+      }
+    })
+
+  }
 
   render() {
     const day = this.props.day
@@ -41,8 +69,6 @@ class DayView extends React.Component {
       const hourDisplay = i % 12
       const ampm = i < 12 ? 'am' : 'pm'
       const tooltipText = `In the hour starting at ${hourDisplay}${ampm}, there was:\n${editTypeTooltipInfo}`
-
-      console.log('deArr', deArr)
       
       return (
         
@@ -59,6 +85,7 @@ class DayView extends React.Component {
                 height: `${100 * nbDevEvt / maxEv}%`,
                 ...bgColor
               }}
+              onClick={(evt) => this.toggleHourDetails(day.date, i)}
             >
               {nbDevEvt > 0 ? nbDevEvt : null}
             </div>
@@ -81,17 +108,54 @@ class DayView extends React.Component {
       )
     })
 
+    let detailEvents = null
+
+    if (this.state.detailsDatetime) {
+      let devEvts = day.getEvents({hour: this.state.detailsDatetime.hour, order: 1})
+
+      const tagColorPerType = {
+        CHANGE: 'blue',
+        REMOVE: 'red',
+        ADD: 'green'
+      }
+
+      detailEvents = devEvts.map((de, i) => {
+        
+        return (
+          <Row gutter={16} key={i} style={{marginBottom: 4}}>
+            <Col span={3}>
+              <Space>
+                <ClockCircleOutlined/>
+                {de.time}
+              </Space>
+            </Col>
+            <Col span={3}>
+              <Tag color={tagColorPerType[de.editType]}>{de.editType}</Tag>
+            </Col>
+            <Col span={18}>
+              <Space>
+                <FileFilled />
+                {de.filePath}
+              </Space>
+            </Col>
+          </Row>
+        )
+      })
+    }
+
+    const detailTable = <div className="detail-table">{detailEvents}</div>
+
     return (
-      <Card title={dateString} bordered={false}>
-        <div className="day-view">
+      <Card className="day-view" title={dateString} bordered={false}>
+        <div >
           <div className="bar-chart">
             {columns}
           </div>
           <div className="bar-chart-hours">
             {columnsHour}
           </div>
-          
         </div>
+        {detailTable}
       </Card>
     )
   }

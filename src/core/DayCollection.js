@@ -3,7 +3,6 @@ import Day from './Day'
 class DayCollection {
   constructor() {
     this._collection = {}
-    this._mostRecentDate = null
   }
 
 
@@ -25,8 +24,9 @@ class DayCollection {
     }
   }
 
-  getMostRecentDay() {
 
+  getMostRecentDay() {
+    return this._collection[this._mostRecentDateLiteral]
   }
 
 
@@ -72,6 +72,14 @@ class DayCollection {
       .map((date) => this._collection[date])
   }
 
+
+  getLastDay() {
+    let lastDay = null
+    try {
+      lastDay = this.getAvailableDays()[0]
+    } catch(e) {}
+    return lastDay
+  }
   
 }
 

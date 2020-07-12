@@ -29,6 +29,12 @@
   color: white;
   padding-top: 3px;
   font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.day-view .bar-chart .bar:hover {
+  background: rgba(21, 161, 255, 0.7);
 }
 
 
@@ -48,5 +54,11 @@
 }
 
 .day-view .date-display {
-  
+
+}
+
+.day-view .detail-table {
+  margin-top: 20px;
+  min-height: 1px;
+  transition: all 0.3s;
 }
