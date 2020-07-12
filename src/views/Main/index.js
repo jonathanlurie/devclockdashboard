@@ -1,168 +1,69 @@
-import React from 'react';
-import clsx from 'clsx';
-import { makeStyles, useTheme } from '@material-ui/core/styles';
-import Drawer from '@material-ui/core/Drawer';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import List from '@material-ui/core/List';
-import CssBaseline from '@material-ui/core/CssBaseline';
-import Typography from '@material-ui/core/Typography';
-import Divider from '@material-ui/core/Divider';
-import IconButton from '@material-ui/core/IconButton';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
-import ListItemText from '@material-ui/core/ListItemText';
-
-import MenuIcon from '@material-ui/icons/Menu';
-import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
-import ChevronRightIcon from '@material-ui/icons/ChevronRight';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
-import MailIcon from '@material-ui/icons/Mail'
-import AccessTimeIcon from '@material-ui/icons/AccessTime';
-
+import React from 'react'
+import {
+  Layout,
+  Row,
+  Col,
+  
+} from 'antd'
+import { CaretRightFilled } from '@ant-design/icons';
 import DayCollectionView from '../DayCollectionView'
+import './style.css'
 
-const drawerWidth = 240;
+const { Header, Footer, Content } = Layout
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: 'flex',
-  },
-  appBar: {
-    zIndex: theme.zIndex.drawer + 1,
-    transition: theme.transitions.create(['width', 'margin'], {
-      easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.leavingScreen,
-    }),
-  },
-  appBarShift: {
-    marginLeft: drawerWidth,
-    width: `calc(100% - ${drawerWidth}px)`,
-    transition: theme.transitions.create(['width', 'margin'], {
-      easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.enteringScreen,
-    }),
-  },
-  menuButton: {
-    marginRight: 36,
-  },
-  hide: {
-    display: 'none',
-  },
-  drawer: {
-    width: drawerWidth,
-    flexShrink: 0,
-    whiteSpace: 'nowrap',
-  },
-  drawerOpen: {
-    width: drawerWidth,
-    transition: theme.transitions.create('width', {
-      easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.enteringScreen,
-    }),
-  },
-  drawerClose: {
-    transition: theme.transitions.create('width', {
-      easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.leavingScreen,
-    }),
-    overflowX: 'hidden',
-    width: theme.spacing(7) + 1,
-    [theme.breakpoints.up('sm')]: {
-      width: theme.spacing(9) + 1,
-    },
-  },
-  toolbar: {
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'flex-end',
-    padding: theme.spacing(0, 1),
-    // necessary for content to be below app bar
-    ...theme.mixins.toolbar,
-  },
-  content: {
-    flexGrow: 1,
-    padding: theme.spacing(3),
-  },
-}));
 
-export default function Main() {
-  const classes = useStyles();
-  const theme = useTheme();
-  const [open, setOpen] = React.useState(false);
+export default class Main extends React.Component {
 
-  const handleDrawerOpen = () => {
-    setOpen(true);
-  };
+  constructor(props) {
+    super(props)
+    this.state = {}
+  }
+  
 
-  const handleDrawerClose = () => {
-    setOpen(false);
-  };
+  render() {
+    
+    return (
+      <Layout>
+        <Header
+          style={{
+            padding: 0
+          }}
+        >
+          <Row>
+            <Col xs={0} sm={0} md={1} lg={3} xl={4} />
 
-  return (
-    <div className={classes.root}>
-      <CssBaseline />
-      <AppBar
-        position="fixed"
-        className={clsx(classes.appBar, {
-          [classes.appBarShift]: open,
-        })}
-      >
-        <Toolbar>
-          <IconButton
-            color="inherit"
-            aria-label="open drawer"
-            onClick={handleDrawerOpen}
-            edge="start"
-            className={clsx(classes.menuButton, {
-              [classes.hide]: open,
-            })}
-          >
-            <MenuIcon />
-          </IconButton>
-          <Typography variant="h6" noWrap>
-            Devclock Dashboard
-          </Typography>
-        </Toolbar>
-      </AppBar>
-      <Drawer
-        variant="permanent"
-        className={clsx(classes.drawer, {
-          [classes.drawerOpen]: open,
-          [classes.drawerClose]: !open,
-        })}
-        classes={{
-          paper: clsx({
-            [classes.drawerOpen]: open,
-            [classes.drawerClose]: !open,
-          }),
-        }}
-      >
-        <div className={classes.toolbar}>
-          <IconButton onClick={handleDrawerClose}>
-            {theme.direction === 'rtl' ? <ChevronRightIcon /> : <ChevronLeftIcon />}
-          </IconButton>
-        </div>
-        <Divider />
+            <Col xs={12} sm={12} md={11} lg={9} xl={8}>
+              <div className="header-devclock-title">
+              <CaretRightFilled/>Devclock
+              </div>
+              
+            </Col>
 
-        <List>
-          <ListItem button key='home'>
-            <ListItemIcon>
-              <AccessTimeIcon />
-            </ListItemIcon>
-            <ListItemText primary='Home' />
-          </ListItem>
 
-        </List>
-        <Divider />
+            <Col xs={12} sm={12} md={11} lg={9} xl={8}>
+              project name
+            </Col>
 
-      </Drawer>
-      <main className={classes.content}>
-        <div className={classes.toolbar} />
+
+            <Col xs={0} sm={0} md={1} lg={3} xl={4} />
+          </Row>
+        </Header>
+
+        <Content>
+          <Row>
+            <Col xs={0} sm={0} md={1} lg={3} xl={4} />
+
+            <Col xs={24} sm={24} md={22} lg={18} xl={16}>
+              <DayCollectionView/>
+            </Col>
+            <Col xs={0} sm={0} md={1} lg={3} xl={4} />
+          </Row>
+        </Content>
         
-        <DayCollectionView/>
-
-      </main>
-    </div>
-  );
+        <Footer>
+          Footer
+        </Footer>
+      </Layout>
+    )
+  }
 }

@@ -1,0 +1,10 @@
+.header-devclock-title {
+  font-size: x-large;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.header-devclock-title svg {
+  fill: #60ffab;
+}
