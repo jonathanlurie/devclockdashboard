@@ -95,6 +95,11 @@ class DayCollection {
   getTotalDay() {
     return this._totalDay
   }
+
+  
+  getNumberOfActiveDays() {
+    return Object.keys(this._collection).length
+  }
   
 }
 

@@ -3,14 +3,16 @@ import {
   Layout,
   Row,
   Col,
-  
+  Tabs,
 } from 'antd'
 import { CaretRightFilled } from '@ant-design/icons';
 import DayCollectionView from '../DayCollectionView'
+import StatisticsView from '../StatisticsView'
 import Store from '../../core/Store'
 import './style.css'
 
 const { Header, Footer, Content } = Layout
+const { TabPane } = Tabs
 
 
 export default class Main extends React.Component {
@@ -69,7 +71,15 @@ export default class Main extends React.Component {
             <Col xs={0} sm={0} md={1} lg={3} xl={4} />
 
             <Col xs={24} sm={24} md={22} lg={18} xl={16}>
-              <DayCollectionView/>
+              <Tabs defaultActiveKey="1" centered>
+                <TabPane tab="Daily reports" key="1">
+                  <DayCollectionView/>
+                </TabPane>
+                <TabPane tab="Statistics" key="2">
+                  <StatisticsView/>
+                </TabPane>
+              </Tabs>
+                
             </Col>
             <Col xs={0} sm={0} md={1} lg={3} xl={4} />
           </Row>

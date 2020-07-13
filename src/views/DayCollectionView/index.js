@@ -27,8 +27,6 @@ class DayCollectionView extends React.Component {
 
     return (
       <div className="day-collection-view">
-        <DayView day={dayCollection.getTotalDay()} title="All time per hour" allowExpand={false}/>
-
         {dayViews}
       </div>
     )
