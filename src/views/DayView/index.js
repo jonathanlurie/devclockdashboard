@@ -10,7 +10,7 @@ class DayView extends React.Component {
 
     this.state = {
       detailsDatetime: null,
-      allowExpand: 'allowExpand' in props ? !!props.allowExpand : false
+      allowExpand: 'allowExpand' in props ? !!props.allowExpand : true
     }
   }
 
