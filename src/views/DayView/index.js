@@ -9,12 +9,17 @@ class DayView extends React.Component {
     super(props)
 
     this.state = {
-      detailsDatetime: null
+      detailsDatetime: null,
+      allowExpand: 'allowExpand' in props ? !!props.allowExpand : false
     }
   }
 
 
   toggleHourDetails = (day, hour) => {
+    if (!this.state.allowExpand) {
+      return
+    }
+
     if (this.state.detailsDatetime === null) {
       return this.setState({
         detailsDatetime: {
@@ -42,9 +47,8 @@ class DayView extends React.Component {
   render() {
     const day = this.props.day
     const devEvt = day.devEventsPerHour
-    const dayCollection = Store.get('dayCollection')
-    const maxEv = dayCollection.getPeakHour().maxEvents
-    const dateString = (new Date(day.date)).toDateString()
+    const maxEv = this.props.max || day.getPeakHour().maxEvents
+    const title = this.props.title || (new Date(day.date)).toDateString()
 
     const columns = devEvt.map((deArr, i) => {
       const nbDevEvt = deArr.length
@@ -70,8 +74,29 @@ class DayView extends React.Component {
       const ampm = i < 12 ? 'am' : 'pm'
       const tooltipText = `In the hour starting at ${hourDisplay}${ampm}, there was:\n${editTypeTooltipInfo}`
       
+      const hourPercent = 100 * nbDevEvt / maxEv
+      let numberDisplay = null
+
+      if (hourPercent < 10) {
+        numberDisplay = (
+          <div
+            style={{
+              marginTop: -25,
+              color: '#15a1ff'
+            }}
+          >
+            {nbDevEvt > 0 ? nbDevEvt : null}
+          </div>
+        )
+      } else {
+        numberDisplay = (
+          <div>
+            {nbDevEvt > 0 ? nbDevEvt : null}
+          </div>
+        )
+      }
+
       return (
-        
         <div 
           key={i}
           className="bar-container"
@@ -82,12 +107,12 @@ class DayView extends React.Component {
               date={day.date}
               hour={i}
               style={{
-                height: `${100 * nbDevEvt / maxEv}%`,
+                height: `${hourPercent}%`,
                 ...bgColor
               }}
               onClick={(evt) => this.toggleHourDetails(day.date, i)}
             >
-              {nbDevEvt > 0 ? nbDevEvt : null}
+              {numberDisplay}
             </div>
           </Tooltip>
         </div>
@@ -146,7 +171,7 @@ class DayView extends React.Component {
     const detailTable = <div className="detail-table">{detailEvents}</div>
 
     return (
-      <Card className="day-view" title={dateString} bordered={false}>
+      <Card className="day-view" title={title} bordered={false}>
         <div >
           <div className="bar-chart">
             {columns}

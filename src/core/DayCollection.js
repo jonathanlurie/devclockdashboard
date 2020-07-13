@@ -3,6 +3,7 @@ import Day from './Day'
 class DayCollection {
   constructor() {
     this._collection = {}
+    this._totalDay = new Day()
   }
 
 
@@ -38,6 +39,8 @@ class DayCollection {
       this._collection[date] = day
     }
     day.addDevEvent(de)
+    // also adding to the total day
+    this._totalDay.addDevEvent(de)
   }
 
 
@@ -79,6 +82,18 @@ class DayCollection {
       lastDay = this.getAvailableDays()[0]
     } catch(e) {}
     return lastDay
+  }
+
+
+  getNumberOfEvents(options = {}) {
+    return Object.keys(this._collection)
+      .map((k) => this._collection[k].getNumberOfEvents(options))
+      .reduce((acc, v) => acc + v, 0)
+  }
+
+
+  getTotalDay() {
+    return this._totalDay
   }
   
 }

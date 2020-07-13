@@ -5,3 +5,4 @@
   - ...
 - add a average day profile
 - add a average week profile (bars are days of the week)
+- add an icon when version is updated

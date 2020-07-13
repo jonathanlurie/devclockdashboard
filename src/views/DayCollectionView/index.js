@@ -16,16 +16,19 @@ class DayCollectionView extends React.Component {
   render() {
     const dayCollection = Store.get('dayCollection')
     const availableDays = dayCollection.getAvailableDays(this.state.order)
+    const maxEv = dayCollection.getPeakHour().maxEvents
 
     const dayViews = availableDays.map((day, i) => {
       return (
-        <DayView day={day} key={i}/>
+        <DayView day={day} max={maxEv} key={i}/>
       )
       
     })
 
     return (
       <div className="day-collection-view">
+        <DayView day={dayCollection.getTotalDay()} title="All time per hour" allowExpand={false}/>
+
         {dayViews}
       </div>
     )

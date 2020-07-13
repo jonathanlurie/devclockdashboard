@@ -23,6 +23,7 @@
 .day-view .bar-chart .bar {
   width: 100%;
   background: rgb(21, 161, 255);
+  /* background: #1890ff; */
   position: absolute;
   bottom: 0px;
   text-align: center;
