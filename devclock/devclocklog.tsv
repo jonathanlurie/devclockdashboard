@@ -1,451 +1,510 @@
-# edit_id	timestamp	iso8601	package_name	package_version	filepath	edit_type
-8zlm0rJgG	1593552524060	2020-06-30T23:28:44+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE
-E2PGP21yR	1593553175668	2020-06-30T23:39:35+02:00	devclockdashboard	0.1.0	src/views/main.js	ADD
-B9etttYL-	1593553228263	2020-06-30T23:40:28+02:00	devclockdashboard	0.1.0	src/views/main.js	CHANGE
-FhuGRpsfE	1593553263126	2020-06-30T23:41:03+02:00	devclockdashboard	0.1.0	src/views/main.js	CHANGE
-e6buWX0Gu	1593553314234	2020-06-30T23:41:54+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE
-9IA5-GSB0	1593553368608	2020-06-30T23:42:48+02:00	devclockdashboard	0.1.0	src/views/main.js	REMOVE
-Alv6cMP7CW	1593553368609	2020-06-30T23:42:48+02:00	devclockdashboard	0.1.0	src/views/index.js	ADD
-J1GLuEXsD	1593553388991	2020-06-30T23:43:08+02:00	devclockdashboard	0.1.0	src/views/index.js	REMOVE
-u0luPFlBBV	1593553388991	2020-06-30T23:43:08+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	ADD
-mjE-f1oUg	1593553396779	2020-06-30T23:43:16+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE
-oSHd4h5wW	1593553493148	2020-06-30T23:44:53+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-jJVaq997M	1593553574978	2020-06-30T23:46:14+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-JmeXr6gOK	1593553839542	2020-06-30T23:50:39+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-F1uzNV1ma	1593553968454	2020-06-30T23:52:48+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-EfK4aVIcd	1593554019702	2020-06-30T23:53:39+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-qjV9Mwp3O	1593554427839	2020-07-01T00:00:27+02:00	devclockdashboard	0.1.0	src/core/LogParser.js	ADD
-H7_ueZJB7	1593554484477	2020-07-01T00:01:24+02:00	devclockdashboard	0.1.0	src/core/Day.js	ADD
-ZJ7kbqf0H	1593554501849	2020-07-01T00:01:41+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-kWiUUmmrd	1593554777592	2020-07-01T00:06:17+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-jAlsWr67Q	1593554840470	2020-07-01T00:07:20+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-lgrt9k6h0	1593554849054	2020-07-01T00:07:29+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	ADD
-fvHPvjqEi	1593554861436	2020-07-01T00:07:41+02:00	devclockdashboard	0.1.0	src/core/LogParser.js	CHANGE
-zfWLJRy1v	1593555120743	2020-07-01T00:12:00+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-pdqfEK10R	1593555195961	2020-07-01T00:13:15+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-Ur-Q7m-9A	1593632329764	2020-07-01T21:38:49+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-yOI8rKarb	1593632358449	2020-07-01T21:39:18+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-khWeSoMWa	1593632583500	2020-07-01T21:43:03+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-Xa2A5OSzH	1593633132715	2020-07-01T21:52:12+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-qknamCaiD	1593633402831	2020-07-01T21:56:42+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-ceSTYCItO	1593633406100	2020-07-01T21:56:46+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-YHc3Kn2o4	1593633577077	2020-07-01T21:59:37+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-tpb_ww-Us	1593633582268	2020-07-01T21:59:42+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-NSW-C9P_I	1593634648244	2020-07-01T22:17:28+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-jHiXuDSgH	1593634881276	2020-07-01T22:21:21+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-B7bB8AYqb	1593634884246	2020-07-01T22:21:24+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-qpA0uMJQd	1593635111657	2020-07-01T22:25:11+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-rUoB2GLFG	1593635147079	2020-07-01T22:25:47+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-9pikdsT9T	1593635158549	2020-07-01T22:25:58+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-uI1J5SaqZ	1593635199458	2020-07-01T22:26:39+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-lsVJcFx0K	1593635298382	2020-07-01T22:28:18+02:00	devclockdashboard	0.1.0	src/core/Store.js	ADD
-10Q_lwC7y	1593635361429	2020-07-01T22:29:21+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE
-IOKwPMqlg	1593635414920	2020-07-01T22:30:14+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE
-bT_NzJI-s	1593635419460	2020-07-01T22:30:19+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE
-OvmZ2_Wsa	1593635422947	2020-07-01T22:30:22+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE
-J3sfZil2T	1593635427443	2020-07-01T22:30:27+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE
-zq9m3bK6-	1593635710865	2020-07-01T22:35:10+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-mNJZKcooW	1593635781494	2020-07-01T22:36:21+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-dV_zG71nc	1593635814218	2020-07-01T22:36:54+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-ESNQiehU3	1593635899255	2020-07-01T22:38:19+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-n_n0RT4y5	1593635932376	2020-07-01T22:38:52+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	ADD
-xAUijCjnO	1593635975668	2020-07-01T22:39:35+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE
-8ISmee5Kc	1593635991438	2020-07-01T22:39:51+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE
-mfb1kGbvh	1593635997743	2020-07-01T22:39:57+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE
-rDX7eoDB2	1593636013578	2020-07-01T22:40:13+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE
-Lcen7VeURN	1593636013587	2020-07-01T22:40:13+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	ADD
-X1X0EGeWf	1593636022648	2020-07-01T22:40:22+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-Hna7XyaBed	1593636022735	2020-07-01T22:40:22+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-FISv3MikV	1593636033904	2020-07-01T22:40:33+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-OAnwvYGOr	1593636038557	2020-07-01T22:40:38+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-3DjtyJDji	1593636282679	2020-07-01T22:44:42+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-rI4uKQeJa	1593636293595	2020-07-01T22:44:53+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-kH0mLqLZz	1593636311207	2020-07-01T22:45:11+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-3bBYKe0B7	1593636387066	2020-07-01T22:46:27+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-pxwO-xX4H	1593636436332	2020-07-01T22:47:16+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE
-R5YpINcXc	1593636449106	2020-07-01T22:47:29+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-qWXxRLpWE	1593636477783	2020-07-01T22:47:57+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-UlXWy2z_C	1593636522376	2020-07-01T22:48:42+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-eLFNoykpF	1593636544624	2020-07-01T22:49:04+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-bH5OrwduU	1593636631116	2020-07-01T22:50:31+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-PN5EgWvhU	1593636751548	2020-07-01T22:52:31+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-LV1_ZRMPG	1593636768188	2020-07-01T22:52:48+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE
-dDbvpkKHF	1593636885401	2020-07-01T22:54:45+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-G9Be2z5g-	1593637156738	2020-07-01T22:59:16+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-cSxs7rIWc	1593637160466	2020-07-01T22:59:20+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-ANMQAqj4Lc	1593637160567	2020-07-01T22:59:20+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-jZE8Sh2ny	1593637191904	2020-07-01T22:59:51+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-m_U7abrYc	1593637212030	2020-07-01T23:00:12+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-J2RYskWq-	1593637250523	2020-07-01T23:00:50+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-kS8-e71pS	1593637343099	2020-07-01T23:02:23+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-EDEB3gStN	1593637397209	2020-07-01T23:03:17+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-ZcKm1tdSM	1593637465431	2020-07-01T23:04:25+02:00	devclockdashboard	0.1.0	src/core/LogParser.js	REMOVE
-oX_OQcEkP	1593637561550	2020-07-01T23:06:01+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-GttNIfKUa	1593637575064	2020-07-01T23:06:15+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-_EZ2rFT1R	1593637586470	2020-07-01T23:06:26+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-DkPruG7cX	1593637602365	2020-07-01T23:06:42+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-tHBQd4B8L	1593637652969	2020-07-01T23:07:32+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-7BNrSWz0C	1593637723115	2020-07-01T23:08:43+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-cuzoqshyY	1593637750792	2020-07-01T23:09:10+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-cETWWLIeE	1593637753622	2020-07-01T23:09:13+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-YGy6-fzdf	1593637796927	2020-07-01T23:09:56+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-IYESfxqYM	1593637822521	2020-07-01T23:10:22+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	ADD
-V5edNNABx	1593637980667	2020-07-01T23:13:00+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-MQasHfNPg	1593638156071	2020-07-01T23:15:56+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-ZvSGXbo8b	1593638167069	2020-07-01T23:16:07+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-zXJs6hB99	1593638200242	2020-07-01T23:16:40+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-hhcWmiyUt	1593638211235	2020-07-01T23:16:51+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-NBwrfXR60	1593638419327	2020-07-01T23:20:19+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-TAOo5MhJM	1593638605285	2020-07-01T23:23:25+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-GMxs0i7o7	1593638619385	2020-07-01T23:23:39+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-ar4zgbNki	1593638669004	2020-07-01T23:24:29+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-3l_NPQHqu	1593638720404	2020-07-01T23:25:20+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-JYgHgpupm	1593638731714	2020-07-01T23:25:31+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-1mHFPi4Oj	1593638736689	2020-07-01T23:25:36+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE
-Go7DbQJOY	1593638762712	2020-07-01T23:26:02+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE
-w4Vhy6K25	1593638835328	2020-07-01T23:27:15+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-qSA7MINQU	1593868171347	2020-07-04T15:09:31+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-0-zyO6l59	1593868202573	2020-07-04T15:10:02+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-j_NPH-Y99	1593868473987	2020-07-04T15:14:33+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-y6SkOBzn6	1593868501936	2020-07-04T15:15:01+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-Sigx0gAtn	1593868944569	2020-07-04T15:22:24+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-VihwJMa9I	1593868948183	2020-07-04T15:22:28+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-HyuvjNs7js	1593868948338	2020-07-04T15:22:28+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-8q4ppztSt	1593961612403	2020-07-05T17:06:52+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-exvkkwROr	1593961859660	2020-07-05T17:10:59+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-uo3Yi3TCz	1593962069594	2020-07-05T17:14:29+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-rruUEMP4i	1593962345041	2020-07-05T17:19:05+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-Kz278pI3B	1593962435942	2020-07-05T17:20:35+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-USaBzDKD9	1593962469664	2020-07-05T17:21:09+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-E-7S7yuIw	1593962497634	2020-07-05T17:21:37+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-0lblmw3rF	1593962516538	2020-07-05T17:21:56+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-GLFB3PpkD	1593962561202	2020-07-05T17:22:41+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-cUgoByPNc	1593984187347	2020-07-05T23:23:07+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-2BeLFcmxl	1593984277191	2020-07-05T23:24:37+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-ni5wtBHBo	1593984321637	2020-07-05T23:25:21+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-op0tSngsY	1593984328086	2020-07-05T23:25:28+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-LFR6Fq49F	1593984604064	2020-07-05T23:30:04+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-qi4x2eROJ	1593984611484	2020-07-05T23:30:11+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-FG5U32APBK	1593984611588	2020-07-05T23:30:11+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-dXYjMXZZn	1593984833365	2020-07-05T23:33:53+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-K7jx50ody	1593984836180	2020-07-05T23:33:56+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-u3esPTQRd	1593985038179	2020-07-05T23:37:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	ADD
--5N7kcO1s	1593985064281	2020-07-05T23:37:44+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	ADD
-Qx88futA9	1593985201527	2020-07-05T23:40:01+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-pWnckpdkM	1593985211757	2020-07-05T23:40:11+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-uDB7mrpYD	1593985257039	2020-07-05T23:40:57+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-LgFNKQWnM	1593985310602	2020-07-05T23:41:50+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-JstRBCfjj	1593985636811	2020-07-05T23:47:16+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-8FqvXN9C7	1593985720588	2020-07-05T23:48:40+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-4iXbeGAYH	1593985864996	2020-07-05T23:51:04+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-crBw9C79o	1593985881176	2020-07-05T23:51:21+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-dWlrhEwkB	1593985888479	2020-07-05T23:51:28+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/style.css	ADD
-TsEjcHN8k	1593985891956	2020-07-05T23:51:31+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/style.css	CHANGE
-N1TOtfvjx	1593985990477	2020-07-05T23:53:10+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-08Y850vyz	1593986084696	2020-07-05T23:54:44+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-N8PEEqEEm	1593986094820	2020-07-05T23:54:54+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-6l55mqPR1	1593986159998	2020-07-05T23:55:59+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-8AY0Eirwv	1593986195787	2020-07-05T23:56:35+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	ADD
-SHNGQQfHV	1593986269635	2020-07-05T23:57:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-8Tp6m12dg	1593986320274	2020-07-05T23:58:40+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-QdO-3JEa3	1593986322872	2020-07-05T23:58:42+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-cGKocObvL	1593986340605	2020-07-05T23:59:00+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-SdCe0_iAT	1593986366707	2020-07-05T23:59:26+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-lAleRrtY7	1593986370086	2020-07-05T23:59:30+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-8piYVQK0j	1593986379239	2020-07-05T23:59:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-d0Xw0L9Uw	1593986393466	2020-07-05T23:59:53+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-MRgLrNvaQ	1593986412944	2020-07-06T00:00:12+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ioxgfoqr1	1593986434953	2020-07-06T00:00:34+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-843BdrtvU	1593986498826	2020-07-06T00:01:38+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-Uk30amsjP	1593986550474	2020-07-06T00:02:30+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-IAk2mm_pO	1593986607025	2020-07-06T00:03:27+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-sidQaODIw	1594065877681	2020-07-06T22:04:37+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-qt8hv7Qws	1594066423248	2020-07-06T22:13:43+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-1BOf20qIs	1594066434606	2020-07-06T22:13:54+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-p9jPYE1rO	1594066518850	2020-07-06T22:15:18+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-nD6SvKXPA	1594066774472	2020-07-06T22:19:34+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-kycZXxqlo	1594066805573	2020-07-06T22:20:05+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-453FrMcR3	1594066866354	2020-07-06T22:21:06+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-_9xSZjqxB	1594066903680	2020-07-06T22:21:43+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-66vBQFjOs	1594067144067	2020-07-06T22:25:44+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-ljNidxtXZ	1594067376285	2020-07-06T22:29:36+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
--3SjkKCcD	1594067525444	2020-07-06T22:32:05+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-N9HYsVX__	1594067648416	2020-07-06T22:34:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-VGBPzxoZ3	1594067707442	2020-07-06T22:35:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-EQ5nDYX37	1594067785147	2020-07-06T22:36:25+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Lsm92qT3x	1594067801667	2020-07-06T22:36:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-qhRZy3_gU	1594067988791	2020-07-06T22:39:48+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-wzistTcxl	1594068016228	2020-07-06T22:40:16+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-G2Lrvbou0	1594068052322	2020-07-06T22:40:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-FDo1rFotj	1594068087678	2020-07-06T22:41:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-DtcDCZi8v	1594068147302	2020-07-06T22:42:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-1IiIxETL6	1594068201669	2020-07-06T22:43:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-RQUda6JPg	1594068288112	2020-07-06T22:44:48+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-CMqEJEN9z	1594068306141	2020-07-06T22:45:06+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-pPHQnU_s-	1594068371725	2020-07-06T22:46:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ZyLgoVLLb	1594068372333	2020-07-06T22:46:12+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-tKdgfFuQJ	1594068580615	2020-07-06T22:49:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-H8BBkvGo1	1594068990001	2020-07-06T22:56:30+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-37QgRL2wJ	1594069080132	2020-07-06T22:58:00+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-t9xpTyK8k	1594069094635	2020-07-06T22:58:14+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-LM2IT1ajT	1594069109486	2020-07-06T22:58:29+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-DLysRAuLx	1594069227899	2020-07-06T23:00:27+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-VTF9y9BXD	1594069240838	2020-07-06T23:00:40+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-vFV5vy9hJ	1594069246304	2020-07-06T23:00:46+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-tQBF2yMfZ	1594069323078	2020-07-06T23:02:03+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-JCJSjtZlP	1594069822873	2020-07-06T23:10:22+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-tf626jkjl	1594069833767	2020-07-06T23:10:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-nYhXquRxH	1594069860397	2020-07-06T23:11:00+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-bFq0hqkk_	1594069915251	2020-07-06T23:11:55+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
--n2dKhh_3	1594069953614	2020-07-06T23:12:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-3YIRoFuh3	1594070132951	2020-07-06T23:15:32+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-l4igS3Nuv	1594070148330	2020-07-06T23:15:48+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-ojGancGzb	1594070160377	2020-07-06T23:16:00+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-_0hdWol2a	1594070167370	2020-07-06T23:16:07+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-2a_DTnvDE	1594070174239	2020-07-06T23:16:14+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-KTOlQgj6i	1594070284200	2020-07-06T23:18:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-JiylAVynl	1594070336829	2020-07-06T23:18:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-uH9yGTeIc	1594070381953	2020-07-06T23:19:41+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-8UWNV7Xi6	1594070473593	2020-07-06T23:21:13+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-MA7yubL3n	1594070508141	2020-07-06T23:21:48+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-w0whRxm1Z	1594070648047	2020-07-06T23:24:08+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-EOHEyjQ-x	1594070711788	2020-07-06T23:25:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-JgvJJAxmi	1594070720934	2020-07-06T23:25:20+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-IqpK_-XWt	1594070732593	2020-07-06T23:25:32+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-YsKf6n9GJ	1594070738218	2020-07-06T23:25:38+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-sYWbM5f4w	1594070871979	2020-07-06T23:27:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-sxOxreIf2	1594070991460	2020-07-06T23:29:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-TX2Nv5Syi	1594071007506	2020-07-06T23:30:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-CchL4BBGv	1594071010991	2020-07-06T23:30:10+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-bnrYHdqdp	1594071014622	2020-07-06T23:30:14+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ti7rtVngP	1594071031334	2020-07-06T23:30:31+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-v9CE5c2NB	1594071039178	2020-07-06T23:30:39+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-R7i7fO6SG	1594071052202	2020-07-06T23:30:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-MCFMnWdkn	1594071062063	2020-07-06T23:31:02+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ihUric0ev	1594071127676	2020-07-06T23:32:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-aTjruBSZD	1594071139277	2020-07-06T23:32:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-lq6nnjvLr	1594071204646	2020-07-06T23:33:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-YU8SOCgxc	1594071223069	2020-07-06T23:33:43+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-WYdlOt0Yz	1594071354251	2020-07-06T23:35:54+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-FwwoVHug5	1594071486472	2020-07-06T23:38:06+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-n0_R0j9Y4	1594071502777	2020-07-06T23:38:22+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-QHOo4hzd0	1594071577953	2020-07-06T23:39:37+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-quJfm98Cu	1594071703056	2020-07-06T23:41:43+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-OD0UUkElL	1594071719776	2020-07-06T23:41:59+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-m_BSAiFj8	1594071753260	2020-07-06T23:42:33+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-XPcVaN-xA	1594280521908	2020-07-09T09:42:01+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-1hUIT29eI	1594280530647	2020-07-09T09:42:10+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-1v5ODXc8Q	1594280615887	2020-07-09T09:43:35+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-tQVPtF6JB	1594280621676	2020-07-09T09:43:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-2PHnznMc6	1594280667020	2020-07-09T09:44:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-aq24gD1vW	1594280818155	2020-07-09T09:46:58+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-at0p6nXFI	1594280823616	2020-07-09T09:47:03+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-GVVyLRbf2	1594280841270	2020-07-09T09:47:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-FbF0dRe-5	1594280955117	2020-07-09T09:49:15+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-mC6s_4e2-	1594280987708	2020-07-09T09:49:47+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-ehAiW6CLU	1594281061503	2020-07-09T09:51:01+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-oTZrf_gns	1594281090750	2020-07-09T09:51:30+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-XSajz4iy6	1594281129823	2020-07-09T09:52:09+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-eznjN-zwR	1594281157865	2020-07-09T09:52:37+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-mkCo8lk8M	1594281167097	2020-07-09T09:52:47+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-KZELEjcT9	1594281289601	2020-07-09T09:54:49+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-WLg6KhtOR	1594281290869	2020-07-09T09:54:50+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-a1G8wkrWG	1594281464112	2020-07-09T09:57:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-y-oyXEWV-	1594281471516	2020-07-09T09:57:51+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-7BA1QHvHC	1594281608772	2020-07-09T10:00:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ZITFZm4GD	1594281849135	2020-07-09T10:04:09+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-WZs2j9xd6	1594281889339	2020-07-09T10:04:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-w8sJ8WjKa	1594281908670	2020-07-09T10:05:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-b5_4FxVFr	1594281922668	2020-07-09T10:05:22+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ofDfzmkFD	1594326394577	2020-07-09T22:26:34+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-mkQYtpBGc	1594328149931	2020-07-09T22:55:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-D4tV9bGhX	1594328309696	2020-07-09T22:58:29+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE
-WTdIS4K4u	1594328318210	2020-07-09T22:58:38+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE
-G8jqnht6V	1594328327878	2020-07-09T22:58:47+02:00	devclockdashboard	0.1.0	src/views/Main/index copy.js	ADD
-kI6p6XnKC	1594328332792	2020-07-09T22:58:52+02:00	devclockdashboard	0.1.0	src/views/Main/index copy.js	REMOVE
-nXRtfIZ_R8	1594328332794	2020-07-09T22:58:52+02:00	devclockdashboard	0.1.0	src/views/Main/index_OLD.js	ADD
-V45G4TlvO	1594328460295	2020-07-09T23:01:00+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-Ywd0R3WUE	1594328508496	2020-07-09T23:01:48+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-76NKSPEEd	1594563222433	2020-07-12T16:13:42+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-W7rAGE0mx	1594563257063	2020-07-12T16:14:17+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-JktkqeI4z	1594563291625	2020-07-12T16:14:51+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-iRdTIg6v_	1594563298434	2020-07-12T16:14:58+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-5CttcJtvU	1594563464307	2020-07-12T16:17:44+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-h-s15XBFA	1594563480439	2020-07-12T16:18:00+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-UzIrpdO9y	1594563590243	2020-07-12T16:19:50+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE
-5FXUnVPtY	1594563690828	2020-07-12T16:21:30+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-ucb8JDAc6	1594563712411	2020-07-12T16:21:52+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-Ej-MZlkVr	1594563756041	2020-07-12T16:22:36+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-IgEEVjL1O	1594563784078	2020-07-12T16:23:04+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-o41x8rqpe	1594563824409	2020-07-12T16:23:44+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-W7VhY4LI_	1594563940660	2020-07-12T16:25:40+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-V1B-pgOIv	1594563973886	2020-07-12T16:26:13+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-zEsh4bqGz	1594564054911	2020-07-12T16:27:34+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-pCIlykD2x	1594564079131	2020-07-12T16:27:59+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-fny4kdR20	1594564117706	2020-07-12T16:28:37+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-ixd16rtJ4	1594564248052	2020-07-12T16:30:48+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-J7BD8W76I	1594564356927	2020-07-12T16:32:36+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-lJGRAMkMf	1594564369916	2020-07-12T16:32:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-81pRGb_h4	1594564536235	2020-07-12T16:35:36+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE
-Z2LgDq9Io	1594564601964	2020-07-12T16:36:41+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/style.css	CHANGE
-Ly4o70kqB	1594564900064	2020-07-12T16:41:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ZCaNSQOd0	1594564941215	2020-07-12T16:42:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-1d5ugq3sX	1594565197929	2020-07-12T16:46:37+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-gGjhYxv_G	1594565292743	2020-07-12T16:48:12+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-VcW6GRpNM	1594565324688	2020-07-12T16:48:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-K9VAYLogj	1594565460213	2020-07-12T16:51:00+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Qx7aoIfPL	1594565636320	2020-07-12T16:53:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ORxGumhdV	1594565862597	2020-07-12T16:57:42+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-f3VOjH5yH	1594566155369	2020-07-12T17:02:35+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Zoevel7r2	1594566206569	2020-07-12T17:03:26+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-wSHMubnSa	1594566247156	2020-07-12T17:04:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-iVAg8sSSv	1594566285699	2020-07-12T17:04:45+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Gwf6TVTqs	1594566392186	2020-07-12T17:06:32+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-xh_OAPQo0	1594566451519	2020-07-12T17:07:31+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-xRkvKVSAa	1594566474990	2020-07-12T17:07:54+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ExhvS3Bbb	1594566551176	2020-07-12T17:09:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-2HPRc8AbU	1594566614295	2020-07-12T17:10:14+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE
-YDwMSe2Z1	1594566641033	2020-07-12T17:10:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-vpdHE4e8f	1594566714859	2020-07-12T17:11:54+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-QX7taw94i	1594566783179	2020-07-12T17:13:03+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-7rk6qr3Es	1594566798682	2020-07-12T17:13:18+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE
-VAbk64Xez	1594566896092	2020-07-12T17:14:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
--cqMjQYdQ	1594566977130	2020-07-12T17:16:17+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE
-_ouZYlbit	1594567092468	2020-07-12T17:18:12+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE
-xvv0u-2iF	1594567205884	2020-07-12T17:20:05+02:00	devclockdashboard	0.1.0	src/views/Main/index_OLD.js	REMOVE
-OvPCLmASy	1594567360737	2020-07-12T17:22:40+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-nZzYedCkt	1594567370607	2020-07-12T17:22:50+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-yH4EnTfi-	1594567476814	2020-07-12T17:24:36+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-M9OTfB_FU	1594567537882	2020-07-12T17:25:37+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-29JXsr5f_	1594567546632	2020-07-12T17:25:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-m6npR4H2Qd	1594567546730	2020-07-12T17:25:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-5J7qe50xj	1594567578526	2020-07-12T17:26:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-uUGKpEkj8	1594567735219	2020-07-12T17:28:55+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-1kBdikSLn	1594567742422	2020-07-12T17:29:02+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	ADD
-rSjiztsSF	1594567770744	2020-07-12T17:29:30+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE
-IC3bn3Tqa	1594567785430	2020-07-12T17:29:45+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-hOBV09Im-	1594567789561	2020-07-12T17:29:49+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-ziIyDDNOD	1594567792364	2020-07-12T17:29:52+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
--hMeRYxZdF	1594567792468	2020-07-12T17:29:52+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-TFZTJxMOo	1594568448278	2020-07-12T17:40:48+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE
-hSNSas3G6	1594568539258	2020-07-12T17:42:19+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE
-Zam3erqWU	1594568610031	2020-07-12T17:43:30+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-vbZCOGv4I	1594568713852	2020-07-12T17:45:13+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-mKGQHg_8R	1594568777655	2020-07-12T17:46:17+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-IlqT6DsoU	1594568827960	2020-07-12T17:47:07+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-_z1MhgPnS	1594568873029	2020-07-12T17:47:53+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-UmuA-tt4z	1594568968022	2020-07-12T17:49:28+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-dq5yPczwv	1594568985235	2020-07-12T17:49:45+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
--hM3-1DwA	1594569010036	2020-07-12T17:50:10+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE
-upnu5ocOq	1594586548684	2020-07-12T22:42:28+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE
-H-V_C5N17	1594586783609	2020-07-12T22:46:23+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-FAxh31Ekt	1594586893674	2020-07-12T22:48:13+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-074gIUGEI	1594586969824	2020-07-12T22:49:29+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-fjujSgRqM	1594587104305	2020-07-12T22:51:44+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-2mUjTry2V	1594587193438	2020-07-12T22:53:13+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-RC81TdT1q	1594587284543	2020-07-12T22:54:44+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-F4WFKKGiG	1594587371955	2020-07-12T22:56:11+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-IevT2J5Fh	1594587388371	2020-07-12T22:56:28+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-MmgtdKFEk	1594587514778	2020-07-12T22:58:34+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-6vct0WMX2	1594587536286	2020-07-12T22:58:56+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-Y2ZKXQ9TP	1594587584317	2020-07-12T22:59:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Xx4tVuGr5	1594587746065	2020-07-12T23:02:26+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-iDHfzmvki	1594587825915	2020-07-12T23:03:45+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-UmlnyRi_3	1594587927233	2020-07-12T23:05:27+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-TQqiFJCn1	1594588036273	2020-07-12T23:07:16+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-poGqVcqaP	1594588039580	2020-07-12T23:07:19+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-_GSqA-Y9lb	1594588039747	2020-07-12T23:07:19+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-AKy-Kl4K2	1594588045475	2020-07-12T23:07:25+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-Jqov517UL	1594588070023	2020-07-12T23:07:50+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-lzv6fQ3dC	1594588083764	2020-07-12T23:08:03+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-3EA2zr7my	1594588141114	2020-07-12T23:09:01+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE
-G0JPTa7Fc	1594588300098	2020-07-12T23:11:40+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-t8ksnYC-d	1594588334029	2020-07-12T23:12:14+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-tWnwmkqID	1594588505887	2020-07-12T23:15:05+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-d6pVFMblA	1594588618372	2020-07-12T23:16:58+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-seXhstszx	1594588629821	2020-07-12T23:17:09+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-mdN4M9SL6	1594588659056	2020-07-12T23:17:39+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-deLsIjckM	1594588697134	2020-07-12T23:18:17+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE
-Y7hQ7omtI	1594588711203	2020-07-12T23:18:31+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE
-DrhhuOsMg	1594588812739	2020-07-12T23:20:12+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-TEKtE6NY1	1594589419497	2020-07-12T23:30:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-3Os3rdaHw	1594589559418	2020-07-12T23:32:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-nxnHRhQc6	1594589632835	2020-07-12T23:33:52+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-9Z0lRwrWr	1594589645658	2020-07-12T23:34:05+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-NrWt_62Vp	1594589744849	2020-07-12T23:35:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-IoMt7Ra2s	1594589907674	2020-07-12T23:38:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-dZCUGsroP	1594589964251	2020-07-12T23:39:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-DlIcwrsYS	1594589977913	2020-07-12T23:39:37+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-CVW8HSN4c	1594590020700	2020-07-12T23:40:20+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-QNlST-qou	1594590062457	2020-07-12T23:41:02+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-UVGUt3Pb3	1594590079187	2020-07-12T23:41:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-z5ASDi5hA	1594590111286	2020-07-12T23:41:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-0bw8iDEOI	1594590142910	2020-07-12T23:42:22+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-onpvBs7eA	1594590290618	2020-07-12T23:44:50+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-78__yKPnx	1594590304332	2020-07-12T23:45:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Ylpm15JpJg	1594590304430	2020-07-12T23:45:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-9r1O__30i	1594590687084	2020-07-12T23:51:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-92jPgAJqO	1594590942831	2020-07-12T23:55:42+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-YYwG7fl4I	1594590964340	2020-07-12T23:56:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-4df9wXwVJ	1594591054444	2020-07-12T23:57:34+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-BLWrCmvK7	1594591091595	2020-07-12T23:58:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-y3AaLVsB7	1594591119738	2020-07-12T23:58:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-rrKD_1AJh	1594591196232	2020-07-12T23:59:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Fvn-q_pha	1594591296606	2020-07-13T00:01:36+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-iH0-yiqcH	1594591309563	2020-07-13T00:01:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ZY_1R-5Pe	1594591318928	2020-07-13T00:01:58+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-sYOMEZpSI	1594591458484	2020-07-13T00:04:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-5fn2NX9Dr	1594591531170	2020-07-13T00:05:31+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-ken-jQGF1	1594591790311	2020-07-13T00:09:50+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-vs1M-ifVk	1594591841391	2020-07-13T00:10:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-6kth_RZ1R	1594591845986	2020-07-13T00:10:45+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-BZ-wMxB3W	1594591846082	2020-07-13T00:10:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-hR_ymm2_r	1594591868320	2020-07-13T00:11:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-PBib6UndQ	1594591912908	2020-07-13T00:11:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-f-fZpNBDk	1594591967801	2020-07-13T00:12:47+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-P_RyMN_ZV	1594592086523	2020-07-13T00:14:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-t_xpu5aaj	1594592111686	2020-07-13T00:15:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-bltjqZQSt	1594592231215	2020-07-13T00:17:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-9Det4lcz5	1594592276524	2020-07-13T00:17:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-LEKjlhu70	1594592461721	2020-07-13T00:21:01+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-cKWa3sQb3	1594592521838	2020-07-13T00:22:01+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-lOIDVuTuV	1594674451505	2020-07-13T23:07:31+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-F-GVxzJtH	1594674706587	2020-07-13T23:11:46+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE
-N-TUartZ1	1594674882056	2020-07-13T23:14:42+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-d_1I30pFy	1594675041517	2020-07-13T23:17:21+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-s9X-0B58E	1594675055402	2020-07-13T23:17:35+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-2A8KBKFcM	1594675098286	2020-07-13T23:18:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
--v0aDhNHT	1594675113049	2020-07-13T23:18:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-cG6DRCpbL	1594675113100	2020-07-13T23:18:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-WkshL5WkT	1594675172225	2020-07-13T23:19:32+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-AhrtKkEkO	1594675186740	2020-07-13T23:19:46+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-zfUgVAfEm	1594675419212	2020-07-13T23:23:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-yo_XGeTkq	1594675426489	2020-07-13T23:23:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-g75j34K1A	1594675464392	2020-07-13T23:24:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-RpIAXqt09	1594675568810	2020-07-13T23:26:08+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-2zT3DhD-A	1594675578624	2020-07-13T23:26:18+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-Kmfh5DmbH	1594675765159	2020-07-13T23:29:25+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-UF4x00FQ6	1594675784841	2020-07-13T23:29:44+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-26sqoBIkx	1594675865146	2020-07-13T23:31:05+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-iq9wCkgJ9	1594675936464	2020-07-13T23:32:16+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-7vhDsieNq	1594676095185	2020-07-13T23:34:55+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-JtogLJgIg	1594676127977	2020-07-13T23:35:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-1GNr4Tpjr	1594676164162	2020-07-13T23:36:04+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-hcqd53Htl	1594676286860	2020-07-13T23:38:06+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-i6lssIg24	1594676421041	2020-07-13T23:40:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-UJa5XK5Xg	1594676560056	2020-07-13T23:42:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-FircD5Jj1	1594676884566	2020-07-13T23:48:04+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-vNvVQoUk2	1594676889089	2020-07-13T23:48:09+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE
-MOODNHzl9	1594677310459	2020-07-13T23:55:10+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-3Zldd_cfS	1594677314990	2020-07-13T23:55:14+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-PMIIllRHA	1594677411006	2020-07-13T23:56:51+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	ADD
-DAVPKHxzb	1594677419918	2020-07-13T23:56:59+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/style.css	ADD
-J6Wsdk8Hf	1594677497148	2020-07-13T23:58:17+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	CHANGE
-hkHFCvn90	1594677544119	2020-07-13T23:59:04+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-3cKPeICAW	1594677595506	2020-07-13T23:59:55+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	CHANGE
-JR8dkUu_w	1594677649186	2020-07-14T00:00:49+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE
-mmIihxdKS	1594677707179	2020-07-14T00:01:47+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/style.css	CHANGE
-IEn5jgbQP	1594677733029	2020-07-14T00:02:13+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE
-Y-Us-6l1f	1594678588137	2020-07-14T00:16:28+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-GBrzY6sNZ	1594678618420	2020-07-14T00:16:58+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
-Lhxl7YSHj	1594678695400	2020-07-14T00:18:15+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE
+# edit_id	timestamp	iso8601	package_name	package_version	filepath	edit_type	git_branch_and_last_commit_hash
+8zlm0rJgG	1593552524060	2020-06-30T23:28:44+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+E2PGP21yR	1593553175668	2020-06-30T23:39:35+02:00	devclockdashboard	0.1.0	src/views/main.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+B9etttYL-	1593553228263	2020-06-30T23:40:28+02:00	devclockdashboard	0.1.0	src/views/main.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FhuGRpsfE	1593553263126	2020-06-30T23:41:03+02:00	devclockdashboard	0.1.0	src/views/main.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+e6buWX0Gu	1593553314234	2020-06-30T23:41:54+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+9IA5-GSB0	1593553368608	2020-06-30T23:42:48+02:00	devclockdashboard	0.1.0	src/views/main.js	REMOVE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Alv6cMP7CW	1593553368609	2020-06-30T23:42:48+02:00	devclockdashboard	0.1.0	src/views/index.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+J1GLuEXsD	1593553388991	2020-06-30T23:43:08+02:00	devclockdashboard	0.1.0	src/views/index.js	REMOVE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+u0luPFlBBV	1593553388991	2020-06-30T23:43:08+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mjE-f1oUg	1593553396779	2020-06-30T23:43:16+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+oSHd4h5wW	1593553493148	2020-06-30T23:44:53+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+jJVaq997M	1593553574978	2020-06-30T23:46:14+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JmeXr6gOK	1593553839542	2020-06-30T23:50:39+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+F1uzNV1ma	1593553968454	2020-06-30T23:52:48+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+EfK4aVIcd	1593554019702	2020-06-30T23:53:39+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qjV9Mwp3O	1593554427839	2020-07-01T00:00:27+02:00	devclockdashboard	0.1.0	src/core/LogParser.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+H7_ueZJB7	1593554484477	2020-07-01T00:01:24+02:00	devclockdashboard	0.1.0	src/core/Day.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZJ7kbqf0H	1593554501849	2020-07-01T00:01:41+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+kWiUUmmrd	1593554777592	2020-07-01T00:06:17+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+jAlsWr67Q	1593554840470	2020-07-01T00:07:20+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lgrt9k6h0	1593554849054	2020-07-01T00:07:29+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+fvHPvjqEi	1593554861436	2020-07-01T00:07:41+02:00	devclockdashboard	0.1.0	src/core/LogParser.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+zfWLJRy1v	1593555120743	2020-07-01T00:12:00+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+pdqfEK10R	1593555195961	2020-07-01T00:13:15+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Ur-Q7m-9A	1593632329764	2020-07-01T21:38:49+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+yOI8rKarb	1593632358449	2020-07-01T21:39:18+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+khWeSoMWa	1593632583500	2020-07-01T21:43:03+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Xa2A5OSzH	1593633132715	2020-07-01T21:52:12+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qknamCaiD	1593633402831	2020-07-01T21:56:42+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ceSTYCItO	1593633406100	2020-07-01T21:56:46+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+YHc3Kn2o4	1593633577077	2020-07-01T21:59:37+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tpb_ww-Us	1593633582268	2020-07-01T21:59:42+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+NSW-C9P_I	1593634648244	2020-07-01T22:17:28+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+jHiXuDSgH	1593634881276	2020-07-01T22:21:21+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+B7bB8AYqb	1593634884246	2020-07-01T22:21:24+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qpA0uMJQd	1593635111657	2020-07-01T22:25:11+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+rUoB2GLFG	1593635147079	2020-07-01T22:25:47+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+9pikdsT9T	1593635158549	2020-07-01T22:25:58+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+uI1J5SaqZ	1593635199458	2020-07-01T22:26:39+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lsVJcFx0K	1593635298382	2020-07-01T22:28:18+02:00	devclockdashboard	0.1.0	src/core/Store.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+10Q_lwC7y	1593635361429	2020-07-01T22:29:21+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IOKwPMqlg	1593635414920	2020-07-01T22:30:14+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+bT_NzJI-s	1593635419460	2020-07-01T22:30:19+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+OvmZ2_Wsa	1593635422947	2020-07-01T22:30:22+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+J3sfZil2T	1593635427443	2020-07-01T22:30:27+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+zq9m3bK6-	1593635710865	2020-07-01T22:35:10+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mNJZKcooW	1593635781494	2020-07-01T22:36:21+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+dV_zG71nc	1593635814218	2020-07-01T22:36:54+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ESNQiehU3	1593635899255	2020-07-01T22:38:19+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+n_n0RT4y5	1593635932376	2020-07-01T22:38:52+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+xAUijCjnO	1593635975668	2020-07-01T22:39:35+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8ISmee5Kc	1593635991438	2020-07-01T22:39:51+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mfb1kGbvh	1593635997743	2020-07-01T22:39:57+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+rDX7eoDB2	1593636013578	2020-07-01T22:40:13+02:00	devclockdashboard	0.1.0	src/core/DevclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Lcen7VeURN	1593636013587	2020-07-01T22:40:13+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+X1X0EGeWf	1593636022648	2020-07-01T22:40:22+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Hna7XyaBed	1593636022735	2020-07-01T22:40:22+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FISv3MikV	1593636033904	2020-07-01T22:40:33+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+OAnwvYGOr	1593636038557	2020-07-01T22:40:38+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3DjtyJDji	1593636282679	2020-07-01T22:44:42+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+rI4uKQeJa	1593636293595	2020-07-01T22:44:53+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+kH0mLqLZz	1593636311207	2020-07-01T22:45:11+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3bBYKe0B7	1593636387066	2020-07-01T22:46:27+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+pxwO-xX4H	1593636436332	2020-07-01T22:47:16+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+R5YpINcXc	1593636449106	2020-07-01T22:47:29+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qWXxRLpWE	1593636477783	2020-07-01T22:47:57+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UlXWy2z_C	1593636522376	2020-07-01T22:48:42+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+eLFNoykpF	1593636544624	2020-07-01T22:49:04+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+bH5OrwduU	1593636631116	2020-07-01T22:50:31+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+PN5EgWvhU	1593636751548	2020-07-01T22:52:31+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+LV1_ZRMPG	1593636768188	2020-07-01T22:52:48+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+dDbvpkKHF	1593636885401	2020-07-01T22:54:45+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+G9Be2z5g-	1593637156738	2020-07-01T22:59:16+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cSxs7rIWc	1593637160466	2020-07-01T22:59:20+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ANMQAqj4Lc	1593637160567	2020-07-01T22:59:20+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+jZE8Sh2ny	1593637191904	2020-07-01T22:59:51+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+m_U7abrYc	1593637212030	2020-07-01T23:00:12+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+J2RYskWq-	1593637250523	2020-07-01T23:00:50+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+kS8-e71pS	1593637343099	2020-07-01T23:02:23+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+EDEB3gStN	1593637397209	2020-07-01T23:03:17+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZcKm1tdSM	1593637465431	2020-07-01T23:04:25+02:00	devclockdashboard	0.1.0	src/core/LogParser.js	REMOVE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+oX_OQcEkP	1593637561550	2020-07-01T23:06:01+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+GttNIfKUa	1593637575064	2020-07-01T23:06:15+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_EZ2rFT1R	1593637586470	2020-07-01T23:06:26+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DkPruG7cX	1593637602365	2020-07-01T23:06:42+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tHBQd4B8L	1593637652969	2020-07-01T23:07:32+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+7BNrSWz0C	1593637723115	2020-07-01T23:08:43+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cuzoqshyY	1593637750792	2020-07-01T23:09:10+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cETWWLIeE	1593637753622	2020-07-01T23:09:13+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+YGy6-fzdf	1593637796927	2020-07-01T23:09:56+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IYESfxqYM	1593637822521	2020-07-01T23:10:22+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+V5edNNABx	1593637980667	2020-07-01T23:13:00+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+MQasHfNPg	1593638156071	2020-07-01T23:15:56+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZvSGXbo8b	1593638167069	2020-07-01T23:16:07+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+zXJs6hB99	1593638200242	2020-07-01T23:16:40+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hhcWmiyUt	1593638211235	2020-07-01T23:16:51+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+NBwrfXR60	1593638419327	2020-07-01T23:20:19+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TAOo5MhJM	1593638605285	2020-07-01T23:23:25+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+GMxs0i7o7	1593638619385	2020-07-01T23:23:39+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ar4zgbNki	1593638669004	2020-07-01T23:24:29+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3l_NPQHqu	1593638720404	2020-07-01T23:25:20+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JYgHgpupm	1593638731714	2020-07-01T23:25:31+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1mHFPi4Oj	1593638736689	2020-07-01T23:25:36+02:00	devclockdashboard	0.1.0	src/core/devclocklogReader.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Go7DbQJOY	1593638762712	2020-07-01T23:26:02+02:00	devclockdashboard	0.1.0	src/core/Store.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+w4Vhy6K25	1593638835328	2020-07-01T23:27:15+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qSA7MINQU	1593868171347	2020-07-04T15:09:31+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+0-zyO6l59	1593868202573	2020-07-04T15:10:02+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+j_NPH-Y99	1593868473987	2020-07-04T15:14:33+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+y6SkOBzn6	1593868501936	2020-07-04T15:15:01+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Sigx0gAtn	1593868944569	2020-07-04T15:22:24+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+VihwJMa9I	1593868948183	2020-07-04T15:22:28+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+HyuvjNs7js	1593868948338	2020-07-04T15:22:28+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8q4ppztSt	1593961612403	2020-07-05T17:06:52+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+exvkkwROr	1593961859660	2020-07-05T17:10:59+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+uo3Yi3TCz	1593962069594	2020-07-05T17:14:29+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+rruUEMP4i	1593962345041	2020-07-05T17:19:05+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Kz278pI3B	1593962435942	2020-07-05T17:20:35+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+USaBzDKD9	1593962469664	2020-07-05T17:21:09+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+E-7S7yuIw	1593962497634	2020-07-05T17:21:37+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+0lblmw3rF	1593962516538	2020-07-05T17:21:56+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+GLFB3PpkD	1593962561202	2020-07-05T17:22:41+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cUgoByPNc	1593984187347	2020-07-05T23:23:07+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2BeLFcmxl	1593984277191	2020-07-05T23:24:37+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ni5wtBHBo	1593984321637	2020-07-05T23:25:21+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+op0tSngsY	1593984328086	2020-07-05T23:25:28+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+LFR6Fq49F	1593984604064	2020-07-05T23:30:04+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qi4x2eROJ	1593984611484	2020-07-05T23:30:11+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FG5U32APBK	1593984611588	2020-07-05T23:30:11+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+dXYjMXZZn	1593984833365	2020-07-05T23:33:53+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+K7jx50ody	1593984836180	2020-07-05T23:33:56+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+u3esPTQRd	1593985038179	2020-07-05T23:37:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-5N7kcO1s	1593985064281	2020-07-05T23:37:44+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Qx88futA9	1593985201527	2020-07-05T23:40:01+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+pWnckpdkM	1593985211757	2020-07-05T23:40:11+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+uDB7mrpYD	1593985257039	2020-07-05T23:40:57+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+LgFNKQWnM	1593985310602	2020-07-05T23:41:50+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JstRBCfjj	1593985636811	2020-07-05T23:47:16+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8FqvXN9C7	1593985720588	2020-07-05T23:48:40+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+4iXbeGAYH	1593985864996	2020-07-05T23:51:04+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+crBw9C79o	1593985881176	2020-07-05T23:51:21+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+dWlrhEwkB	1593985888479	2020-07-05T23:51:28+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/style.css	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TsEjcHN8k	1593985891956	2020-07-05T23:51:31+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+N1TOtfvjx	1593985990477	2020-07-05T23:53:10+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+08Y850vyz	1593986084696	2020-07-05T23:54:44+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+N8PEEqEEm	1593986094820	2020-07-05T23:54:54+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+6l55mqPR1	1593986159998	2020-07-05T23:55:59+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8AY0Eirwv	1593986195787	2020-07-05T23:56:35+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+SHNGQQfHV	1593986269635	2020-07-05T23:57:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8Tp6m12dg	1593986320274	2020-07-05T23:58:40+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+QdO-3JEa3	1593986322872	2020-07-05T23:58:42+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cGKocObvL	1593986340605	2020-07-05T23:59:00+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+SdCe0_iAT	1593986366707	2020-07-05T23:59:26+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lAleRrtY7	1593986370086	2020-07-05T23:59:30+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8piYVQK0j	1593986379239	2020-07-05T23:59:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+d0Xw0L9Uw	1593986393466	2020-07-05T23:59:53+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+MRgLrNvaQ	1593986412944	2020-07-06T00:00:12+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ioxgfoqr1	1593986434953	2020-07-06T00:00:34+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+843BdrtvU	1593986498826	2020-07-06T00:01:38+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Uk30amsjP	1593986550474	2020-07-06T00:02:30+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IAk2mm_pO	1593986607025	2020-07-06T00:03:27+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+sidQaODIw	1594065877681	2020-07-06T22:04:37+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qt8hv7Qws	1594066423248	2020-07-06T22:13:43+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1BOf20qIs	1594066434606	2020-07-06T22:13:54+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+p9jPYE1rO	1594066518850	2020-07-06T22:15:18+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nD6SvKXPA	1594066774472	2020-07-06T22:19:34+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+kycZXxqlo	1594066805573	2020-07-06T22:20:05+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+453FrMcR3	1594066866354	2020-07-06T22:21:06+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_9xSZjqxB	1594066903680	2020-07-06T22:21:43+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+66vBQFjOs	1594067144067	2020-07-06T22:25:44+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ljNidxtXZ	1594067376285	2020-07-06T22:29:36+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-3SjkKCcD	1594067525444	2020-07-06T22:32:05+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+N9HYsVX__	1594067648416	2020-07-06T22:34:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+VGBPzxoZ3	1594067707442	2020-07-06T22:35:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+EQ5nDYX37	1594067785147	2020-07-06T22:36:25+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Lsm92qT3x	1594067801667	2020-07-06T22:36:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qhRZy3_gU	1594067988791	2020-07-06T22:39:48+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+wzistTcxl	1594068016228	2020-07-06T22:40:16+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+G2Lrvbou0	1594068052322	2020-07-06T22:40:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FDo1rFotj	1594068087678	2020-07-06T22:41:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DtcDCZi8v	1594068147302	2020-07-06T22:42:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1IiIxETL6	1594068201669	2020-07-06T22:43:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+RQUda6JPg	1594068288112	2020-07-06T22:44:48+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+CMqEJEN9z	1594068306141	2020-07-06T22:45:06+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+pPHQnU_s-	1594068371725	2020-07-06T22:46:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZyLgoVLLb	1594068372333	2020-07-06T22:46:12+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tKdgfFuQJ	1594068580615	2020-07-06T22:49:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+H8BBkvGo1	1594068990001	2020-07-06T22:56:30+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+37QgRL2wJ	1594069080132	2020-07-06T22:58:00+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+t9xpTyK8k	1594069094635	2020-07-06T22:58:14+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+LM2IT1ajT	1594069109486	2020-07-06T22:58:29+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DLysRAuLx	1594069227899	2020-07-06T23:00:27+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+VTF9y9BXD	1594069240838	2020-07-06T23:00:40+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vFV5vy9hJ	1594069246304	2020-07-06T23:00:46+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tQBF2yMfZ	1594069323078	2020-07-06T23:02:03+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JCJSjtZlP	1594069822873	2020-07-06T23:10:22+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tf626jkjl	1594069833767	2020-07-06T23:10:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nYhXquRxH	1594069860397	2020-07-06T23:11:00+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+bFq0hqkk_	1594069915251	2020-07-06T23:11:55+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-n2dKhh_3	1594069953614	2020-07-06T23:12:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3YIRoFuh3	1594070132951	2020-07-06T23:15:32+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+l4igS3Nuv	1594070148330	2020-07-06T23:15:48+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ojGancGzb	1594070160377	2020-07-06T23:16:00+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_0hdWol2a	1594070167370	2020-07-06T23:16:07+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2a_DTnvDE	1594070174239	2020-07-06T23:16:14+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+KTOlQgj6i	1594070284200	2020-07-06T23:18:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JiylAVynl	1594070336829	2020-07-06T23:18:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+uH9yGTeIc	1594070381953	2020-07-06T23:19:41+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+8UWNV7Xi6	1594070473593	2020-07-06T23:21:13+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+MA7yubL3n	1594070508141	2020-07-06T23:21:48+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+w0whRxm1Z	1594070648047	2020-07-06T23:24:08+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+EOHEyjQ-x	1594070711788	2020-07-06T23:25:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JgvJJAxmi	1594070720934	2020-07-06T23:25:20+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IqpK_-XWt	1594070732593	2020-07-06T23:25:32+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+YsKf6n9GJ	1594070738218	2020-07-06T23:25:38+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+sYWbM5f4w	1594070871979	2020-07-06T23:27:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+sxOxreIf2	1594070991460	2020-07-06T23:29:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TX2Nv5Syi	1594071007506	2020-07-06T23:30:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+CchL4BBGv	1594071010991	2020-07-06T23:30:10+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+bnrYHdqdp	1594071014622	2020-07-06T23:30:14+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ti7rtVngP	1594071031334	2020-07-06T23:30:31+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+v9CE5c2NB	1594071039178	2020-07-06T23:30:39+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+R7i7fO6SG	1594071052202	2020-07-06T23:30:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+MCFMnWdkn	1594071062063	2020-07-06T23:31:02+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ihUric0ev	1594071127676	2020-07-06T23:32:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+aTjruBSZD	1594071139277	2020-07-06T23:32:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lq6nnjvLr	1594071204646	2020-07-06T23:33:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+YU8SOCgxc	1594071223069	2020-07-06T23:33:43+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+WYdlOt0Yz	1594071354251	2020-07-06T23:35:54+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FwwoVHug5	1594071486472	2020-07-06T23:38:06+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+n0_R0j9Y4	1594071502777	2020-07-06T23:38:22+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+QHOo4hzd0	1594071577953	2020-07-06T23:39:37+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+quJfm98Cu	1594071703056	2020-07-06T23:41:43+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+OD0UUkElL	1594071719776	2020-07-06T23:41:59+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+m_BSAiFj8	1594071753260	2020-07-06T23:42:33+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+XPcVaN-xA	1594280521908	2020-07-09T09:42:01+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1hUIT29eI	1594280530647	2020-07-09T09:42:10+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1v5ODXc8Q	1594280615887	2020-07-09T09:43:35+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tQVPtF6JB	1594280621676	2020-07-09T09:43:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2PHnznMc6	1594280667020	2020-07-09T09:44:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+aq24gD1vW	1594280818155	2020-07-09T09:46:58+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+at0p6nXFI	1594280823616	2020-07-09T09:47:03+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+GVVyLRbf2	1594280841270	2020-07-09T09:47:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FbF0dRe-5	1594280955117	2020-07-09T09:49:15+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mC6s_4e2-	1594280987708	2020-07-09T09:49:47+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ehAiW6CLU	1594281061503	2020-07-09T09:51:01+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+oTZrf_gns	1594281090750	2020-07-09T09:51:30+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+XSajz4iy6	1594281129823	2020-07-09T09:52:09+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+eznjN-zwR	1594281157865	2020-07-09T09:52:37+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mkCo8lk8M	1594281167097	2020-07-09T09:52:47+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+KZELEjcT9	1594281289601	2020-07-09T09:54:49+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+WLg6KhtOR	1594281290869	2020-07-09T09:54:50+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+a1G8wkrWG	1594281464112	2020-07-09T09:57:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+y-oyXEWV-	1594281471516	2020-07-09T09:57:51+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+7BA1QHvHC	1594281608772	2020-07-09T10:00:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZITFZm4GD	1594281849135	2020-07-09T10:04:09+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+WZs2j9xd6	1594281889339	2020-07-09T10:04:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+w8sJ8WjKa	1594281908670	2020-07-09T10:05:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+b5_4FxVFr	1594281922668	2020-07-09T10:05:22+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ofDfzmkFD	1594326394577	2020-07-09T22:26:34+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mkQYtpBGc	1594328149931	2020-07-09T22:55:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+D4tV9bGhX	1594328309696	2020-07-09T22:58:29+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+WTdIS4K4u	1594328318210	2020-07-09T22:58:38+02:00	devclockdashboard	0.1.0	src/App.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+G8jqnht6V	1594328327878	2020-07-09T22:58:47+02:00	devclockdashboard	0.1.0	src/views/Main/index copy.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+kI6p6XnKC	1594328332792	2020-07-09T22:58:52+02:00	devclockdashboard	0.1.0	src/views/Main/index copy.js	REMOVE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nXRtfIZ_R8	1594328332794	2020-07-09T22:58:52+02:00	devclockdashboard	0.1.0	src/views/Main/index_OLD.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+V45G4TlvO	1594328460295	2020-07-09T23:01:00+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Ywd0R3WUE	1594328508496	2020-07-09T23:01:48+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+76NKSPEEd	1594563222433	2020-07-12T16:13:42+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+W7rAGE0mx	1594563257063	2020-07-12T16:14:17+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JktkqeI4z	1594563291625	2020-07-12T16:14:51+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+iRdTIg6v_	1594563298434	2020-07-12T16:14:58+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+5CttcJtvU	1594563464307	2020-07-12T16:17:44+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+h-s15XBFA	1594563480439	2020-07-12T16:18:00+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UzIrpdO9y	1594563590243	2020-07-12T16:19:50+02:00	devclockdashboard	0.1.0	src/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+5FXUnVPtY	1594563690828	2020-07-12T16:21:30+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ucb8JDAc6	1594563712411	2020-07-12T16:21:52+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Ej-MZlkVr	1594563756041	2020-07-12T16:22:36+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IgEEVjL1O	1594563784078	2020-07-12T16:23:04+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+o41x8rqpe	1594563824409	2020-07-12T16:23:44+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+W7VhY4LI_	1594563940660	2020-07-12T16:25:40+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+V1B-pgOIv	1594563973886	2020-07-12T16:26:13+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+zEsh4bqGz	1594564054911	2020-07-12T16:27:34+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+pCIlykD2x	1594564079131	2020-07-12T16:27:59+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+fny4kdR20	1594564117706	2020-07-12T16:28:37+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ixd16rtJ4	1594564248052	2020-07-12T16:30:48+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+J7BD8W76I	1594564356927	2020-07-12T16:32:36+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lJGRAMkMf	1594564369916	2020-07-12T16:32:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+81pRGb_h4	1594564536235	2020-07-12T16:35:36+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Z2LgDq9Io	1594564601964	2020-07-12T16:36:41+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Ly4o70kqB	1594564900064	2020-07-12T16:41:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZCaNSQOd0	1594564941215	2020-07-12T16:42:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1d5ugq3sX	1594565197929	2020-07-12T16:46:37+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+gGjhYxv_G	1594565292743	2020-07-12T16:48:12+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+VcW6GRpNM	1594565324688	2020-07-12T16:48:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+K9VAYLogj	1594565460213	2020-07-12T16:51:00+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Qx7aoIfPL	1594565636320	2020-07-12T16:53:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ORxGumhdV	1594565862597	2020-07-12T16:57:42+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+f3VOjH5yH	1594566155369	2020-07-12T17:02:35+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Zoevel7r2	1594566206569	2020-07-12T17:03:26+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+wSHMubnSa	1594566247156	2020-07-12T17:04:07+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+iVAg8sSSv	1594566285699	2020-07-12T17:04:45+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Gwf6TVTqs	1594566392186	2020-07-12T17:06:32+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+xh_OAPQo0	1594566451519	2020-07-12T17:07:31+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+xRkvKVSAa	1594566474990	2020-07-12T17:07:54+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ExhvS3Bbb	1594566551176	2020-07-12T17:09:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2HPRc8AbU	1594566614295	2020-07-12T17:10:14+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+YDwMSe2Z1	1594566641033	2020-07-12T17:10:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vpdHE4e8f	1594566714859	2020-07-12T17:11:54+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+QX7taw94i	1594566783179	2020-07-12T17:13:03+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+7rk6qr3Es	1594566798682	2020-07-12T17:13:18+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+VAbk64Xez	1594566896092	2020-07-12T17:14:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-cqMjQYdQ	1594566977130	2020-07-12T17:16:17+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_ouZYlbit	1594567092468	2020-07-12T17:18:12+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+xvv0u-2iF	1594567205884	2020-07-12T17:20:05+02:00	devclockdashboard	0.1.0	src/views/Main/index_OLD.js	REMOVE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+OvPCLmASy	1594567360737	2020-07-12T17:22:40+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nZzYedCkt	1594567370607	2020-07-12T17:22:50+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+yH4EnTfi-	1594567476814	2020-07-12T17:24:36+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+M9OTfB_FU	1594567537882	2020-07-12T17:25:37+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+29JXsr5f_	1594567546632	2020-07-12T17:25:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+m6npR4H2Qd	1594567546730	2020-07-12T17:25:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+5J7qe50xj	1594567578526	2020-07-12T17:26:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+uUGKpEkj8	1594567735219	2020-07-12T17:28:55+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1kBdikSLn	1594567742422	2020-07-12T17:29:02+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+rSjiztsSF	1594567770744	2020-07-12T17:29:30+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IC3bn3Tqa	1594567785430	2020-07-12T17:29:45+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hOBV09Im-	1594567789561	2020-07-12T17:29:49+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ziIyDDNOD	1594567792364	2020-07-12T17:29:52+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-hMeRYxZdF	1594567792468	2020-07-12T17:29:52+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TFZTJxMOo	1594568448278	2020-07-12T17:40:48+02:00	devclockdashboard	0.1.0	src/index.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hSNSas3G6	1594568539258	2020-07-12T17:42:19+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Zam3erqWU	1594568610031	2020-07-12T17:43:30+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vbZCOGv4I	1594568713852	2020-07-12T17:45:13+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mKGQHg_8R	1594568777655	2020-07-12T17:46:17+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IlqT6DsoU	1594568827960	2020-07-12T17:47:07+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_z1MhgPnS	1594568873029	2020-07-12T17:47:53+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UmuA-tt4z	1594568968022	2020-07-12T17:49:28+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+dq5yPczwv	1594568985235	2020-07-12T17:49:45+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-hM3-1DwA	1594569010036	2020-07-12T17:50:10+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+upnu5ocOq	1594586548684	2020-07-12T22:42:28+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+H-V_C5N17	1594586783609	2020-07-12T22:46:23+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FAxh31Ekt	1594586893674	2020-07-12T22:48:13+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+074gIUGEI	1594586969824	2020-07-12T22:49:29+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+fjujSgRqM	1594587104305	2020-07-12T22:51:44+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2mUjTry2V	1594587193438	2020-07-12T22:53:13+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+RC81TdT1q	1594587284543	2020-07-12T22:54:44+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+F4WFKKGiG	1594587371955	2020-07-12T22:56:11+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IevT2J5Fh	1594587388371	2020-07-12T22:56:28+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+MmgtdKFEk	1594587514778	2020-07-12T22:58:34+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+6vct0WMX2	1594587536286	2020-07-12T22:58:56+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Y2ZKXQ9TP	1594587584317	2020-07-12T22:59:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Xx4tVuGr5	1594587746065	2020-07-12T23:02:26+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+iDHfzmvki	1594587825915	2020-07-12T23:03:45+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UmlnyRi_3	1594587927233	2020-07-12T23:05:27+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TQqiFJCn1	1594588036273	2020-07-12T23:07:16+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+poGqVcqaP	1594588039580	2020-07-12T23:07:19+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_GSqA-Y9lb	1594588039747	2020-07-12T23:07:19+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+AKy-Kl4K2	1594588045475	2020-07-12T23:07:25+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Jqov517UL	1594588070023	2020-07-12T23:07:50+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lzv6fQ3dC	1594588083764	2020-07-12T23:08:03+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3EA2zr7my	1594588141114	2020-07-12T23:09:01+02:00	devclockdashboard	0.1.0	src/core/Day.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+G0JPTa7Fc	1594588300098	2020-07-12T23:11:40+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+t8ksnYC-d	1594588334029	2020-07-12T23:12:14+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tWnwmkqID	1594588505887	2020-07-12T23:15:05+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+d6pVFMblA	1594588618372	2020-07-12T23:16:58+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+seXhstszx	1594588629821	2020-07-12T23:17:09+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mdN4M9SL6	1594588659056	2020-07-12T23:17:39+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+deLsIjckM	1594588697134	2020-07-12T23:18:17+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Y7hQ7omtI	1594588711203	2020-07-12T23:18:31+02:00	devclockdashboard	0.1.0	src/views/Main/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DrhhuOsMg	1594588812739	2020-07-12T23:20:12+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TEKtE6NY1	1594589419497	2020-07-12T23:30:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3Os3rdaHw	1594589559418	2020-07-12T23:32:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nxnHRhQc6	1594589632835	2020-07-12T23:33:52+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+9Z0lRwrWr	1594589645658	2020-07-12T23:34:05+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+NrWt_62Vp	1594589744849	2020-07-12T23:35:44+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IoMt7Ra2s	1594589907674	2020-07-12T23:38:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+dZCUGsroP	1594589964251	2020-07-12T23:39:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DlIcwrsYS	1594589977913	2020-07-12T23:39:37+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+CVW8HSN4c	1594590020700	2020-07-12T23:40:20+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+QNlST-qou	1594590062457	2020-07-12T23:41:02+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UVGUt3Pb3	1594590079187	2020-07-12T23:41:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+z5ASDi5hA	1594590111286	2020-07-12T23:41:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+0bw8iDEOI	1594590142910	2020-07-12T23:42:22+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+onpvBs7eA	1594590290618	2020-07-12T23:44:50+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+78__yKPnx	1594590304332	2020-07-12T23:45:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Ylpm15JpJg	1594590304430	2020-07-12T23:45:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+9r1O__30i	1594590687084	2020-07-12T23:51:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+92jPgAJqO	1594590942831	2020-07-12T23:55:42+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+YYwG7fl4I	1594590964340	2020-07-12T23:56:04+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+4df9wXwVJ	1594591054444	2020-07-12T23:57:34+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+BLWrCmvK7	1594591091595	2020-07-12T23:58:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+y3AaLVsB7	1594591119738	2020-07-12T23:58:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+rrKD_1AJh	1594591196232	2020-07-12T23:59:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Fvn-q_pha	1594591296606	2020-07-13T00:01:36+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+iH0-yiqcH	1594591309563	2020-07-13T00:01:49+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ZY_1R-5Pe	1594591318928	2020-07-13T00:01:58+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+sYOMEZpSI	1594591458484	2020-07-13T00:04:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+5fn2NX9Dr	1594591531170	2020-07-13T00:05:31+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+ken-jQGF1	1594591790311	2020-07-13T00:09:50+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vs1M-ifVk	1594591841391	2020-07-13T00:10:41+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+6kth_RZ1R	1594591845986	2020-07-13T00:10:45+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+BZ-wMxB3W	1594591846082	2020-07-13T00:10:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hR_ymm2_r	1594591868320	2020-07-13T00:11:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+PBib6UndQ	1594591912908	2020-07-13T00:11:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+f-fZpNBDk	1594591967801	2020-07-13T00:12:47+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+P_RyMN_ZV	1594592086523	2020-07-13T00:14:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+t_xpu5aaj	1594592111686	2020-07-13T00:15:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+bltjqZQSt	1594592231215	2020-07-13T00:17:11+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+9Det4lcz5	1594592276524	2020-07-13T00:17:56+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+LEKjlhu70	1594592461721	2020-07-13T00:21:01+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cKWa3sQb3	1594592521838	2020-07-13T00:22:01+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+lOIDVuTuV	1594674451505	2020-07-13T23:07:31+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+F-GVxzJtH	1594674706587	2020-07-13T23:11:46+02:00	devclockdashboard	0.1.0	src/views/DayView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+N-TUartZ1	1594674882056	2020-07-13T23:14:42+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+d_1I30pFy	1594675041517	2020-07-13T23:17:21+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+s9X-0B58E	1594675055402	2020-07-13T23:17:35+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2A8KBKFcM	1594675098286	2020-07-13T23:18:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-v0aDhNHT	1594675113049	2020-07-13T23:18:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cG6DRCpbL	1594675113100	2020-07-13T23:18:33+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+WkshL5WkT	1594675172225	2020-07-13T23:19:32+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+AhrtKkEkO	1594675186740	2020-07-13T23:19:46+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+zfUgVAfEm	1594675419212	2020-07-13T23:23:39+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+yo_XGeTkq	1594675426489	2020-07-13T23:23:46+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+g75j34K1A	1594675464392	2020-07-13T23:24:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+RpIAXqt09	1594675568810	2020-07-13T23:26:08+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+2zT3DhD-A	1594675578624	2020-07-13T23:26:18+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Kmfh5DmbH	1594675765159	2020-07-13T23:29:25+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UF4x00FQ6	1594675784841	2020-07-13T23:29:44+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+26sqoBIkx	1594675865146	2020-07-13T23:31:05+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+iq9wCkgJ9	1594675936464	2020-07-13T23:32:16+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+7vhDsieNq	1594676095185	2020-07-13T23:34:55+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JtogLJgIg	1594676127977	2020-07-13T23:35:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1GNr4Tpjr	1594676164162	2020-07-13T23:36:04+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hcqd53Htl	1594676286860	2020-07-13T23:38:06+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+i6lssIg24	1594676421041	2020-07-13T23:40:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UJa5XK5Xg	1594676560056	2020-07-13T23:42:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FircD5Jj1	1594676884566	2020-07-13T23:48:04+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vNvVQoUk2	1594676889089	2020-07-13T23:48:09+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+MOODNHzl9	1594677310459	2020-07-13T23:55:10+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3Zldd_cfS	1594677314990	2020-07-13T23:55:14+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+PMIIllRHA	1594677411006	2020-07-13T23:56:51+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DAVPKHxzb	1594677419918	2020-07-13T23:56:59+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/style.css	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+J6Wsdk8Hf	1594677497148	2020-07-13T23:58:17+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hkHFCvn90	1594677544119	2020-07-13T23:59:04+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3cKPeICAW	1594677595506	2020-07-13T23:59:55+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+JR8dkUu_w	1594677649186	2020-07-14T00:00:49+02:00	devclockdashboard	0.1.0	src/views/Main/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+mmIihxdKS	1594677707179	2020-07-14T00:01:47+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+IEn5jgbQP	1594677733029	2020-07-14T00:02:13+02:00	devclockdashboard	0.1.0	src/views/DayCollectionView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Y-Us-6l1f	1594678588137	2020-07-14T00:16:28+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+GBrzY6sNZ	1594678618420	2020-07-14T00:16:58+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Lhxl7YSHj	1594678695400	2020-07-14T00:18:15+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vUjPNhaAD	1594762397806	2020-07-14T23:33:17+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Fl6GHv7Vx	1594762821569	2020-07-14T23:40:21+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+KaNaftMz3	1594762840107	2020-07-14T23:40:40+02:00	devclockdashboard	0.1.0	src/core/DayCollection.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+sxFTYW73O	1594763019365	2020-07-14T23:43:39+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/style.css	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+4vmxSPUos	1594763026689	2020-07-14T23:43:46+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/indes.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+m2PiP5vV6	1594763033013	2020-07-14T23:43:53+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/indes.js	REMOVE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+TMG6x9KAid	1594763033014	2020-07-14T23:43:53+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	ADD	master/8f51f450a6eae663dd6f8d71b82013628a753267
+hArEmPa_h	1594763125767	2020-07-14T23:45:25+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+utgrTDQRM	1594763497087	2020-07-14T23:51:37+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+RC4FU4aqV	1594763500918	2020-07-14T23:51:40+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/style.css	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+0Ut5vK-0C	1594763515803	2020-07-14T23:51:55+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+0Xx8qsirq	1594763558291	2020-07-14T23:52:38+02:00	devclockdashboard	0.1.0	src/views/StatisticsView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+KOMGr0UFG	1594763752806	2020-07-14T23:55:52+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DG2XM8YfI	1594763797725	2020-07-14T23:56:37+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nzjGSdzXK	1594763852418	2020-07-14T23:57:32+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+HaldeAFUT	1594763888653	2020-07-14T23:58:08+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+e2cE4M9qX	1594764114724	2020-07-15T00:01:54+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nc5x5cvJn	1594764273896	2020-07-15T00:04:33+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+jy_TaGIJb	1594764350986	2020-07-15T00:05:50+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+U9cM47Gbg	1594764354021	2020-07-15T00:05:54+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+L58R6RXIw	1594764469551	2020-07-15T00:07:49+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+LMOMp9oX5	1594764503350	2020-07-15T00:08:23+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+f3Qk0u-mC	1594764568237	2020-07-15T00:09:28+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+3raZhQlUw	1594764611588	2020-07-15T00:10:11+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+p2SOBd88a	1594764684652	2020-07-15T00:11:24+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+X0HgrlurD	1594764950028	2020-07-15T00:15:50+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+NE5TQSsdY	1594765102430	2020-07-15T00:18:22+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+D3Y9sKExr	1594765123143	2020-07-15T00:18:43+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Xb6TqILCW	1594765160050	2020-07-15T00:19:20+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vG4qNKaT2	1594765224559	2020-07-15T00:20:24+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_fc9MTy1t	1594765276104	2020-07-15T00:21:16+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+WUlI09naA	1594850014915	2020-07-15T23:53:34+02:00	devclockdashboard	0.1.0	src/views/AllTimeSeries/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FgGQZzcGH	1594850202404	2020-07-15T23:56:42+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Ac04Liv7l	1594850205004	2020-07-15T23:56:45+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+L-h63oCQI	1594850280126	2020-07-15T23:58:00+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+K5Y4MI2HL	1594850544358	2020-07-16T00:02:24+02:00	devclockdashboard	0.1.0	public/devclocklog.tsv	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+tNcPOEcJr	1594850647524	2020-07-16T00:04:07+02:00	devclockdashboard	0.1.0	public/devclocklog.tsv	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+vO9luXY-m	1594851241615	2020-07-16T00:14:01+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+OniLy1sR0	1594851253818	2020-07-16T00:14:13+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+nK0M58Xse	1594851440278	2020-07-16T00:17:20+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+_TL6CSfD5	1594851443818	2020-07-16T00:17:23+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+1eaZR57Sk	1594851501214	2020-07-16T00:18:21+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+BZYuNXZHz	1594851627519	2020-07-16T00:20:27+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+FwxK8sQsG	1594851678143	2020-07-16T00:21:18+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+DN85uwtVA	1594851728738	2020-07-16T00:22:08+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+v6aUDYfhK	1594851772513	2020-07-16T00:22:52+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+HbHtK5ivX	1594851780416	2020-07-16T00:23:00+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+xoKHOsW_N	1594851840649	2020-07-16T00:24:00+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+5QZcudRr0	1594851891182	2020-07-16T00:24:51+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+PiVibYSV5	1594851924161	2020-07-16T00:25:24+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+-1QMITKzO	1594851979425	2020-07-16T00:26:19+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+w_9qvHYmN	1594852030119	2020-07-16T00:27:10+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+UJKwNRbcY	1594852034378	2020-07-16T00:27:14+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+7uHYz1VPV	1594852079704	2020-07-16T00:27:59+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Bfh-AF64W	1594852120190	2020-07-16T00:28:40+02:00	devclockdashboard	0.1.0	src/views/DayView/index.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+cEKfBWxIf	1594852165330	2020-07-16T00:29:25+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+Fc4vd5Ugh	1594852238760	2020-07-16T00:30:38+02:00	devclockdashboard	0.1.0	src/core/DevEvent.js	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+SSSSC3coX	1594852256712	2020-07-16T00:30:56+02:00	devclockdashboard	0.1.0	public/devclocklog.tsv	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267
+qCkQkYjjJ	1594852279675	2020-07-16T00:31:19+02:00	devclockdashboard	0.1.0	public/devclocklog.tsv	CHANGE	master/8f51f450a6eae663dd6f8d71b82013628a753267

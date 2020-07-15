@@ -96,9 +96,47 @@ class DayCollection {
     return this._totalDay
   }
 
-  
+
   getNumberOfActiveDays() {
     return Object.keys(this._collection).length
+  }
+
+
+  getDevEventsPerDaySeries() {
+    // all the dates available in format yyyy-mm-dd in chronological order
+    const datesAvailable = Object.keys(this._collection)
+      .sort((a, b) => new Date(a) > new Date(b) ? 1 : -1 )
+
+    const oldestDate = datesAvailable[0]
+    const newestDate = datesAvailable[datesAvailable.length - 1]
+
+    let movingDateStr = oldestDate
+    let movingDateObject = new Date(oldestDate)
+
+    const dateSeries = []
+    const contributionSeries = []
+
+    while (movingDateStr !== newestDate) {
+      dateSeries.push(movingDateStr)
+      if (movingDateStr in this._collection) {
+        contributionSeries.push(this._collection[movingDateStr].getNumberOfEvents())
+      } else {
+        contributionSeries.push(0)
+      }
+
+      movingDateObject = new Date(movingDateObject)
+      movingDateObject.setDate(movingDateObject.getDate() + 1)
+      movingDateStr = movingDateObject.toISOString().slice(0,10)
+    }
+
+    // adding the last one
+    dateSeries.push(newestDate)
+    contributionSeries.push(this._collection[newestDate].getNumberOfEvents())
+
+    return {
+      dateSeries,
+      contributionSeries
+    }
   }
   
 }

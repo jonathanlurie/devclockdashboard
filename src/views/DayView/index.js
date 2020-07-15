@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, Tooltip, Row, Col, Space, Tag } from 'antd'
-import { ClockCircleOutlined, FileFilled } from '@ant-design/icons';
+import { ClockCircleOutlined, FileFilled, BranchesOutlined } from '@ant-design/icons';
 import Store from '../../core/Store'
 import './style.css'
 
@@ -146,6 +146,21 @@ class DayView extends React.Component {
 
       detailEvents = devEvts.map((de, i) => {
         
+        let gitInfo = null
+
+        if (de.gitBranch) {
+          gitInfo = (
+            <Col span={3}>
+              <Space>
+                <BranchesOutlined />
+                <Tooltip title={`Happened after commit:\n${de.gitLastCommitHash}`}>
+                  <span style={{color: 'rgb(21, 161, 255)', cursor: 'pointer'}}>{de.gitBranch}</span>
+                </Tooltip>
+              </Space>
+            </Col>
+          )
+        }
+
         return (
           <Row gutter={16} key={i} style={{marginBottom: 4}}>
             <Col span={3}>
@@ -154,10 +169,14 @@ class DayView extends React.Component {
                 {de.time}
               </Space>
             </Col>
-            <Col span={3}>
+            <Col span={2}>
               <Tag color={tagColorPerType[de.editType]}>{de.editType}</Tag>
             </Col>
-            <Col span={18}>
+
+            {gitInfo}
+
+
+            <Col>
               <Space>
                 <FileFilled />
                 {de.filePath}

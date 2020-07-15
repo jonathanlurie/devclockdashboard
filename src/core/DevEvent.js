@@ -17,6 +17,14 @@ class DevEvent {
     this._packageVersion = elem[4]
     this._filePath = elem[5]
     this._editType = elem[6]
+    this._gitBranch = null
+    this._gitLastCommitHash = null
+
+    if (elem[7] !== 'null') {
+      const gitBranchAndHash = elem[7].split('/')
+      this._gitBranch = gitBranchAndHash[0]
+      this._gitLastCommitHash = gitBranchAndHash[1]
+    }
   }
 
 
@@ -121,6 +129,15 @@ class DevEvent {
     return parseInt(elem[0]) + parseInt(elem[1]) / 60
   }
 
+
+  get gitLastCommitHash() {
+    return this._gitLastCommitHash
+  }
+
+
+  get gitBranch() {
+    return this._gitBranch
+  }
 }
 
 export default DevEvent

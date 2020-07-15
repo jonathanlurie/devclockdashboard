@@ -60,6 +60,7 @@ class Day {
     return this.getEvents(options).length
   }
 
+  
 
   getPeakHour() {
     let maxEvents = 0
