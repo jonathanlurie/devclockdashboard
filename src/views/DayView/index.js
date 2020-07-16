@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, Tooltip, Row, Col, Space, Tag } from 'antd'
-import { ClockCircleOutlined, FileFilled, BranchesOutlined } from '@ant-design/icons';
+import { ClockCircleOutlined, FileFilled, BranchesOutlined, CloudUploadOutlined } from '@ant-design/icons';
 import Store from '../../core/Store'
 import './style.css'
 
@@ -148,13 +148,18 @@ class DayView extends React.Component {
         
         let gitInfo = null
 
+        const extraGitIcon = de.islastBeforeCommit() ? <CloudUploadOutlined /> : null
+        const tooltipMessage = de.islastBeforeCommit() ?
+          `Commit:\n${de.next.gitLastCommitHash}` :
+          `Happened after commit:\n${de.gitLastCommitHash}`
+
         if (de.gitBranch) {
           gitInfo = (
             <Col span={3}>
               <Space>
                 <BranchesOutlined />
-                <Tooltip title={`Happened after commit:\n${de.gitLastCommitHash}`}>
-                  <span style={{color: 'rgb(21, 161, 255)', cursor: 'pointer'}}>{de.gitBranch}</span>
+                <Tooltip title={tooltipMessage}>
+                  <span style={{color: 'rgb(21, 161, 255)', cursor: 'pointer'}}>{de.gitBranch} {extraGitIcon}</span>
                 </Tooltip>
               </Space>
             </Col>

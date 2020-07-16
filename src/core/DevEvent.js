@@ -25,6 +25,29 @@ class DevEvent {
       this._gitBranch = gitBranchAndHash[0]
       this._gitLastCommitHash = gitBranchAndHash[1]
     }
+
+    this._previousDevEvent = null
+    this._nextDevEvent = null
+  }
+
+
+  get previous() {
+    return this._previousDevEvent
+  }
+
+
+  get next() {
+    return this._nextDevEvent
+  }
+
+
+  set previous(prevDe) {
+    this._previousDevEvent = prevDe
+  } 
+
+
+  set next(nextDe) {
+    this._nextDevEvent = nextDe
   }
 
 
@@ -137,6 +160,35 @@ class DevEvent {
 
   get gitBranch() {
     return this._gitBranch
+  }
+
+
+  hasVersionUpdate() {
+    if (!this._previousDevEvent) {
+      return false
+    }
+
+    return this._previousDevEvent.packageVersion !== this._packageVersion
+  }
+
+
+  /**
+   * If true, then this event is the one jsut before a git commit,
+   * meaning that the next dev event happened just after this commit.
+   * 
+   */
+  islastBeforeCommit() {
+    // there is no nrxt event
+    if (!this._nextDevEvent) {
+      return false
+    }
+
+    // not using git (probably)
+    if (!this._gitLastCommitHash || !this._nextDevEvent.gitLastCommitHash) {
+      return false
+    }
+
+    return this._gitLastCommitHash !== this._nextDevEvent.gitLastCommitHash
   }
 }
 
