@@ -1,6 +1,18 @@
 import React from 'react'
-import { Card, Tooltip, Row, Col, Space, Tag } from 'antd'
-import { ClockCircleOutlined, FileFilled, BranchesOutlined, CloudUploadOutlined } from '@ant-design/icons';
+import {
+  Card,
+  Tooltip,
+  Row,
+  Col,
+  Space,
+  Tag
+} from 'antd'
+import {
+  ClockCircleOutlined,
+  FileFilled,
+  BranchesOutlined,
+  CloudUploadOutlined,
+} from '@ant-design/icons';
 import Store from '../../core/Store'
 import './style.css'
 
@@ -155,14 +167,22 @@ class DayView extends React.Component {
 
         if (de.gitBranch) {
           gitInfo = (
-            <Col span={3}>
-              <Space>
-                <BranchesOutlined />
-                <Tooltip title={tooltipMessage}>
-                  <span style={{color: 'rgb(21, 161, 255)', cursor: 'pointer'}}>{de.gitBranch} {extraGitIcon}</span>
-                </Tooltip>
-              </Space>
-            </Col>
+            <Space>
+              <BranchesOutlined />
+              <Tooltip title={tooltipMessage}>
+                <span style={{color: 'rgb(21, 161, 255)', cursor: 'pointer'}}>{de.gitBranch} {extraGitIcon}</span>
+              </Tooltip>
+            </Space>
+          )
+        }
+
+        let versionTag = null
+        if (de.hasVersionUpdate()) {
+          const versionMessage = `Version update to v${de.packageVersion}`
+          versionTag = (
+            <Tooltip title={versionMessage}>
+              <Tag color="purple">{`v${de.packageVersion}`}</Tag>
+            </Tooltip>
           )
         }
 
@@ -178,8 +198,13 @@ class DayView extends React.Component {
               <Tag color={tagColorPerType[de.editType]}>{de.editType}</Tag>
             </Col>
 
-            {gitInfo}
+            <Col span={2}>
+              {versionTag}
+            </Col>
 
+            <Col span={3}>
+              {gitInfo}
+            </Col>
 
             <Col>
               <Space>

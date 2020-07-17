@@ -72,11 +72,11 @@ export default class Main extends React.Component {
 
             <Col xs={24} sm={24} md={22} lg={18} xl={16}>
               <Tabs defaultActiveKey="1" centered>
-                <TabPane tab="Daily reports" key="1">
-                  <DayCollectionView/>
-                </TabPane>
-                <TabPane tab="Statistics" key="2">
+                <TabPane tab="Statistics" key="1">
                   <StatisticsView/>
+                </TabPane>
+                <TabPane tab="Daily reports" key="2">
+                  <DayCollectionView/>
                 </TabPane>
               </Tabs>
                 
